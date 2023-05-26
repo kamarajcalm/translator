@@ -1,0 +1,103 @@
+{
+  "Sheet1": [
+    {
+      "English": "Sign in to Veris",
+      "Espanol": "Iniciar sesión en Veris",
+      "Romana": "Conectați -vă la Veris",
+      "Magyar": "Jelentkezzen be a Verisbe",
+      "Portugues": "Faça login no Veris",
+      "日本人(Japanese)": "Verisにサインインします",
+      "中文(chinese)": "登录Veris"
+    },
+    {
+      "English": "Enter your Veris subdomain",
+      "Espanol": "Ingrese su subdominio Veri",
+      "Romana": "Introduceți subdomeniul dvs. Veris",
+      "Magyar": "Írja be a Veris aldomaint",
+      "Portugues": "Digite seu subdomínio Veris",
+      "日本人(Japanese)": "Verisサブドメインを入力します",
+      "中文(chinese)": "输入您的Veris子域"
+    },
+    {
+      "English": "Subdomain was not found!",
+      "Espanol": "¡El subdominio no fue encontrado!",
+      "Romana": "Subdomeniul nu a fost găsit!",
+      "Magyar": "Az aldomaint nem találták meg!",
+      "Portugues": "O subdomínio não foi encontrado!",
+      "日本人(Japanese)": "サブドメインは見つかりませんでした！",
+      "中文(chinese)": "找不到子域！"
+    },
+    {
+      "English": "What is my Veris subdomain?",
+      "Espanol": "¿Cuál es mi subdominio Veris?",
+      "Romana": "Care este subdomeniul meu Veris?",
+      "Magyar": "Mi az én veris aldomainem?",
+      "Portugues": "Qual é o meu subdomínio Veris?",
+      "日本人(Japanese)": "私のVerisサブドメインは何ですか？",
+      "中文(chinese)": "我的Veris子域是什么？"
+    },
+    {
+      "English": "Subdomain",
+      "Espanol": "Subdominio",
+      "Romana": "Subdomeniu",
+      "Magyar": "Aldomain",
+      "Portugues": "Subdomínio",
+      "日本人(Japanese)": "サブドメイン",
+      "中文(chinese)": "子域"
+    },
+    {
+      "English": "Email or phone",
+      "Espanol": "Email o teléfono",
+      "Romana": "Email sau telefon",
+      "Magyar": "Mailben vagy telefonon",
+      "Portugues": "Email ou telefone",
+      "日本人(Japanese)": "メールまたは電話",
+      "中文(chinese)": "邮件或者电话"
+    },
+    {
+      "English": "Phone",
+      "Espanol": "Teléfono",
+      "Romana": "Telefon",
+      "Magyar": "Telefon",
+      "Portugues": "Telefone",
+      "日本人(Japanese)": "電話",
+      "中文(chinese)": "电话"
+    },
+    {
+      "English": "Email",
+      "Espanol": "Correo electrónico",
+      "Romana": "E-mail",
+      "Magyar": "Email",
+      "Portugues": "O email",
+      "日本人(Japanese)": "Eメール",
+      "中文(chinese)": "电子邮件"
+    },
+    {
+      "English": "We will send you an OTP on this contact",
+      "Espanol": "Le enviaremos un OTP en este contacto",
+      "Romana": "Vă vom trimite un OTP pe acest contact",
+      "Magyar": "Küldünk neked egy OTP -t erre a kapcsolattartóra",
+      "Portugues": "Enviaremos a você um OTP neste contato",
+      "日本人(Japanese)": "この連絡先にOTPをお送りします",
+      "中文(chinese)": "我们将向您发送此联系人的OTP"
+    },
+    {
+      "English": "Verify your contact",
+      "Espanol": "Verifique su contacto",
+      "Romana": "Verificați -vă contactul",
+      "Magyar": "Ellenőrizze a kapcsolattartását",
+      "Portugues": "Verifique seu contato",
+      "日本人(Japanese)": "連絡先を確認してください",
+      "中文(chinese)": "验证您的联系"
+    },
+    {
+      "English": "No Visitors",
+      "Espanol": "No hay visitantes",
+      "Romana": "Fără vizitatori",
+      "Magyar": "Nincs látogató",
+      "Portugues": "Sem visitantes",
+      "日本人(Japanese)": "訪問者はいません",
+      "中文(chinese)": "没有访客"
+    }
+  ]
+}

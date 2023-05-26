@@ -1,0 +1,461 @@
+ [
+        {
+            "English": "Hi",
+            "Espanol": "Hola",
+            "Romana": "Bună",
+            "Magyar": "Szia",
+            "Portugues": "Oi",
+            "日本人(Japanese)": "やあ",
+            "中文(chinese)": "你好"
+        },
+        {
+            "English": "Welcome to",
+            "Espanol": "Bienvenido a",
+            "Romana": "Bun venit la",
+            "Magyar": "Isten hozott a",
+            "Portugues": "Bem-vindo ao",
+            "日本人(Japanese)": "ようこそ",
+            "中文(chinese)": "欢迎来到"
+        },
+        {
+            "English": "Health Status",
+            "Espanol": "Estado de salud",
+            "Romana": "Stare de sănătate",
+            "Magyar": "Egészségi állapot",
+            "Portugues": "Estado de saúde",
+            "日本人(Japanese)": "健康状態",
+            "中文(chinese)": "健康状况"
+        },
+        {
+            "English": "Update health declaration",
+            "Espanol": "Actualizar la declaración de salud",
+            "Romana": "Actualizați declarația de sănătate",
+            "Magyar": "Frissítse az egészségügyi nyilatkozatot",
+            "Portugues": "Atualizar a declaração de saúde",
+            "日本人(Japanese)": "健康宣言を更新します",
+            "中文(chinese)": "更新健康声明"
+        },
+        {
+            "English": "your health status needs to be updated",
+            "Espanol": "Su estado de salud debe actualizarse",
+            "Romana": "Starea dvs. de sănătate trebuie actualizată",
+            "Magyar": "Az egészségi állapotát frissíteni kell",
+            "Portugues": "Seu estado de saúde precisa ser atualizado",
+            "日本人(Japanese)": "あなたの健康状態を更新する必要があります",
+            "中文(chinese)": "您的健康状况需要更新"
+        },
+        {
+            "English": "UPDATE ",
+            "Espanol": "ACTUALIZAR",
+            "Romana": "ACTUALIZAȚI",
+            "Magyar": "Frissít",
+            "Portugues": "ATUALIZAR",
+            "日本人(Japanese)": "アップデート",
+            "中文(chinese)": "更新"
+        },
+        {
+            "English": "Refreshing in",
+            "Espanol": "Refrescante en",
+            "Romana": "Răcoritor în",
+            "Magyar": "Üdítő",
+            "Portugues": "Refrescando",
+            "日本人(Japanese)": "リフレッシュ",
+            "中文(chinese)": "刷新"
+        },
+        {
+            "English": "Apps",
+            "Espanol": "Aplicaciones",
+            "Romana": "Aplicații",
+            "Magyar": "Alkalmazások",
+            "Portugues": "Aplicativos",
+            "日本人(Japanese)": "アプリ",
+            "中文(chinese)": "应用"
+        },
+        {
+            "English": "Find Room",
+            "Espanol": "Encontrar espacio",
+            "Romana": "Găsiți cameră",
+            "Magyar": "Helyet talál",
+            "Portugues": "Encontre espaço",
+            "日本人(Japanese)": "部屋を見つけてください",
+            "中文(chinese)": "找到房间"
+        },
+        {
+            "English": "Book Desk",
+            "Espanol": "Escritorio",
+            "Romana": "Birou de carte",
+            "Magyar": "Könyvtár",
+            "Portugues": "Desk",
+            "日本人(Japanese)": "ブックデスク",
+            "中文(chinese)": "书桌"
+        },
+        {
+            "English": "Upcoming Bookings",
+            "Espanol": "Próximas reservas",
+            "Romana": "Rezervări viitoare",
+            "Magyar": "Közelgő foglalások",
+            "Portugues": "Próximas reservas",
+            "日本人(Japanese)": "今後の予約",
+            "中文(chinese)": "即将预订"
+        },
+        {
+            "English": "No event for the day",
+            "Espanol": "No hay evento para el día",
+            "Romana": "Niciun eveniment pentru zi",
+            "Magyar": "Nincs esemény a napra",
+            "Portugues": "Nenhum evento para o dia",
+            "日本人(Japanese)": "その日のイベントはありません",
+            "中文(chinese)": "一天没有活动"
+        },
+        {
+            "English": "we`ll keep you updated if there are ",
+            "Espanol": "Te mantendremos actualizado si hay",
+            "Romana": "Vă vom ține la curent dacă există",
+            "Magyar": "Folyamatosan tájékoztatjuk Önt, ha vannak",
+            "Portugues": "Nós vamos mantê -lo atualizado se houver",
+            "日本人(Japanese)": "ある場合は、最新情報をお届けします",
+            "中文(chinese)": "如果有"
+        },
+        {
+            "English": "any changes",
+            "Espanol": "algún cambio",
+            "Romana": "orice modificări",
+            "Magyar": "bármilyen változás",
+            "Portugues": "quaisquer alterações",
+            "日本人(Japanese)": "変更があります",
+            "中文(chinese)": "任何变化"
+        },
+        {
+            "English": "Home",
+            "Espanol": "Hogar",
+            "Romana": "Acasă",
+            "Magyar": "itthon",
+            "Portugues": "Casa",
+            "日本人(Japanese)": "家",
+            "中文(chinese)": "家"
+        },
+        {
+            "English": "Bookings",
+            "Espanol": "Reservaciones",
+            "Romana": "Rezervări",
+            "Magyar": "Foglalás",
+            "Portugues": "Reservas",
+            "日本人(Japanese)": "予約",
+            "中文(chinese)": "预订"
+        },
+        {
+            "English": "I UNDERSTAND",
+            "Espanol": "ENTIENDO",
+            "Romana": "AM ÎNȚELES",
+            "Magyar": "ÉRTEM",
+            "Portugues": "COMPREENDO",
+            "日本人(Japanese)": "わかりました",
+            "中文(chinese)": "我明白"
+        },
+        {
+            "English": "You do not pass the health declaration parameters to book/update a resource. You can refill the declaration if you think this is not right ",
+            "Espanol": "No pasa los parámetros de declaración de salud para reservar/actualizar un recurso. Puede rellenar la declaración si cree que esto no es correcto",
+            "Romana": "Nu treceți parametrii declarației de sănătate pentru a rezerva/actualiza o resursă. Puteți reumple declarația dacă credeți că acest lucru nu este corect",
+            "Magyar": "Nem adja át az egészségügyi nyilatkozat paramétereit az erőforrás lefoglalásához/frissítéséhez. Feltöltheti a nyilatkozatot, ha úgy gondolja, hogy ez nem megfelelő",
+            "Portugues": "Você não passa os parâmetros da declaração de saúde para reservar/atualizar um recurso. Você pode reabastecer a declaração se acha que isso não está certo",
+            "日本人(Japanese)": "リソースを予約/更新するために、健康宣言パラメーターを渡すことはありません。これが正しくないと思われる場合は、宣言を補充できます",
+            "中文(chinese)": "您不会将健康声明参数传递给预订/更新资源。如果您认为这是不对的话，可以重新填写声明"
+        },
+        {
+            "English": "Book Space",
+            "Espanol": "Espacio de libros",
+            "Romana": "Spațiu de carte",
+            "Magyar": "Könyvtér",
+            "Portugues": "Espaço de livro",
+            "日本人(Japanese)": "ブックスペース",
+            "中文(chinese)": "书籍空间"
+        },
+        {
+            "English": "My Bookings",
+            "Espanol": "Mis reservas",
+            "Romana": "Rezervările mele",
+            "Magyar": "A foglalásaim",
+            "Portugues": "Minhas reservas",
+            "日本人(Japanese)": "私の予約",
+            "中文(chinese)": "我的预订"
+        },
+        {
+            "English": "Search",
+            "Espanol": "Búsqueda",
+            "Romana": "Căutare",
+            "Magyar": "Keresés",
+            "Portugues": "Procurar",
+            "日本人(Japanese)": "探す",
+            "中文(chinese)": "搜索"
+        },
+        {
+            "English": "Available",
+            "Espanol": "Disponible",
+            "Romana": "Disponibil",
+            "Magyar": "Elérhető",
+            "Portugues": "Disponível",
+            "日本人(Japanese)": "利用可能",
+            "中文(chinese)": "可用的"
+        },
+        {
+            "English": "Book Room",
+            "Espanol": "Sala de libros",
+            "Romana": "Cameră de carte",
+            "Magyar": "Könyvszoba",
+            "Portugues": "Sala de livros",
+            "日本人(Japanese)": "本部屋",
+            "中文(chinese)": "书房"
+        },
+        {
+            "English": "Filter Space",
+            "Espanol": "Espacio de filtro",
+            "Romana": "Spațiu de filtrare",
+            "Magyar": "Szűrőterület",
+            "Portugues": "Espaço de filtro",
+            "日本人(Japanese)": "フィルタースペース",
+            "中文(chinese)": "滤波器空间"
+        },
+        {
+            "English": "Resource Type",
+            "Espanol": "Tipo de recurso",
+            "Romana": "Tip de resursă",
+            "Magyar": "Erőforrás -típus",
+            "Portugues": "Tipo de recurso",
+            "日本人(Japanese)": "リソースタイプ",
+            "中文(chinese)": "资源类型"
+        },
+        {
+            "English": "Desk",
+            "Espanol": "Escritorio",
+            "Romana": "Birou",
+            "Magyar": "Asztal",
+            "Portugues": "Mesa",
+            "日本人(Japanese)": "デスク",
+            "中文(chinese)": "桌子"
+        },
+        {
+            "English": "Room",
+            "Espanol": "Habitación",
+            "Romana": "Cameră",
+            "Magyar": "Szoba",
+            "Portugues": "Quarto",
+            "日本人(Japanese)": "部屋",
+            "中文(chinese)": "房间"
+        },
+        {
+            "English": "Available",
+            "Espanol": "Disponible",
+            "Romana": "Disponibil",
+            "Magyar": "Elérhető",
+            "Portugues": "Disponível",
+            "日本人(Japanese)": "利用可能",
+            "中文(chinese)": "可用的"
+        },
+        {
+            "English": "Resource Status",
+            "Espanol": "Estado de recursos",
+            "Romana": "Starea resursei",
+            "Magyar": "Erőforrás állapot",
+            "Portugues": "Status de recurso",
+            "日本人(Japanese)": "リソースステータス",
+            "中文(chinese)": "资源状态"
+        },
+        {
+            "English": "Start Time and End Time",
+            "Espanol": "Hora de inicio y finalización",
+            "Romana": "Timpul de pornire și timpul de sfârșit",
+            "Magyar": "A kezdési és a végső idő",
+            "Portugues": "Hora de início e horário de término",
+            "日本人(Japanese)": "開始時間と終了時間",
+            "中文(chinese)": "开始时间和结束时间"
+        },
+        {
+            "English": "Venue",
+            "Espanol": "Evento",
+            "Romana": "Loc",
+            "Magyar": "Helyszín",
+            "Portugues": "Local",
+            "日本人(Japanese)": "会場",
+            "中文(chinese)": "场地"
+        },
+        {
+            "English": "Select a Venue",
+            "Espanol": "Seleccione un lugar",
+            "Romana": "Selectați un loc",
+            "Magyar": "Válasszon egy helyszínt",
+            "Portugues": "Selecione um local",
+            "日本人(Japanese)": "会場を選択します",
+            "中文(chinese)": "选择一个场地"
+        },
+        {
+            "English": "Amenities",
+            "Espanol": "Comodidades",
+            "Romana": "Facilități",
+            "Magyar": "Kényelmi szolgáltatások",
+            "Portugues": "Facilidades",
+            "日本人(Japanese)": "アメニティ",
+            "中文(chinese)": "便利"
+        },
+        {
+            "English": "Space Tags",
+            "Espanol": "Etiquetas espaciales",
+            "Romana": "Etichete spațiale",
+            "Magyar": "Űrcímkék",
+            "Portugues": "Tags espaciais",
+            "日本人(Japanese)": "スペースタグ",
+            "中文(chinese)": "空间标签"
+        },
+        {
+            "English": "Clear",
+            "Espanol": "Claro",
+            "Romana": "clar",
+            "Magyar": "Egyértelmű",
+            "Portugues": "Claro",
+            "日本人(Japanese)": "クリア",
+            "中文(chinese)": "清除"
+        },
+        {
+            "English": "Find a Space",
+            "Espanol": "Encuentra un espacio",
+            "Romana": "Găsiți un spațiu",
+            "Magyar": "Keressen egy helyet",
+            "Portugues": "Encontre um espaço",
+            "日本人(Japanese)": "スペースを見つけます",
+            "中文(chinese)": "找到一个空间"
+        },
+        {
+            "English": "No Bookings",
+            "Espanol": "Sin reservas",
+            "Romana": "Fără rezervări",
+            "Magyar": "Nincs foglalás",
+            "Portugues": "Sem reservas",
+            "日本人(Japanese)": "予約なし",
+            "中文(chinese)": "没有预订"
+        },
+        {
+            "English": "You have no spaces booked for the day",
+            "Espanol": "No tienes espacios reservados para el día",
+            "Romana": "Nu aveți spații rezervate pentru zi",
+            "Magyar": "Nincs olyan hely, amelyet a napra lefoglaltak",
+            "Portugues": "Você não tem espaços reservados para o dia",
+            "日本人(Japanese)": "その日のスペースは予約されていません",
+            "中文(chinese)": "您没有预订的空间"
+        },
+        {
+            "English": "Search by Space, Location, Status",
+            "Espanol": "Buscar por espacio, ubicación, estado",
+            "Romana": "Căutare după spațiu, locație, stare",
+            "Magyar": "Keresés tér, hely, állapot szerint",
+            "Portugues": "Pesquise por espaço, localização, status",
+            "日本人(Japanese)": "スペース、場所、ステータスで検索します",
+            "中文(chinese)": "按空间，位置，状态搜索"
+        },
+        {
+            "English": "Manage Booking",
+            "Espanol": "Gestionar la reserva",
+            "Romana": "Gestionați rezervarea",
+            "Magyar": "Kezelje a foglalást",
+            "Portugues": "Gerencie a reserva",
+            "日本人(Japanese)": "予約を管理します",
+            "中文(chinese)": "管理预订"
+        },
+        {
+            "English": "Cancel This Booking",
+            "Espanol": "Cancelar esta reserva",
+            "Romana": "Anulați această rezervare",
+            "Magyar": "Törölje ezt a foglalást",
+            "Portugues": "Cancelar esta reserva",
+            "日本人(Japanese)": "この予約をキャンセルします",
+            "中文(chinese)": "取消此预订"
+        },
+        {
+            "English": "Cancel All Recurring Booking",
+            "Espanol": "Cancelar todas las reservas recurrentes",
+            "Romana": "Anulați toate rezervările recurente",
+            "Magyar": "Törölje az összes ismétlődő foglalást",
+            "Portugues": "Cancelar todas as reservas recorrentes",
+            "日本人(Japanese)": "すべての定期的な予約をキャンセルします",
+            "中文(chinese)": "取消所有重复预订"
+        },
+        {
+            "English": "Not Available",
+            "Espanol": "No disponible",
+            "Romana": "Nu e disponibil",
+            "Magyar": "Nem elérhető",
+            "Portugues": "Não disponível",
+            "日本人(Japanese)": "利用不可",
+            "中文(chinese)": "无法使用"
+        },
+        {
+            "English": "Booked",
+            "Espanol": "Reservado",
+            "Romana": "Rezervat",
+            "Magyar": "Foglalt",
+            "Portugues": "Reservado",
+            "日本人(Japanese)": "予約",
+            "中文(chinese)": "预订"
+        },
+        {
+            "English": "My Team",
+            "Espanol": "Loading...",
+            "Romana": "Loading...",
+            "Magyar": "Loading...",
+            "Portugues": "Loading...",
+            "日本人(Japanese)": "Loading...",
+            "中文(chinese)": "Loading..."
+        },
+        {
+            "English": "Work Schedule",
+            "Espanol": "Loading...",
+            "Romana": "Loading...",
+            "Magyar": "Loading...",
+            "Portugues": "Loading...",
+            "日本人(Japanese)": "Loading...",
+            "中文(chinese)": "Loading..."
+        },
+        {
+            "English": "My Profile",
+            "Espanol": "Loading...",
+            "Romana": "Loading...",
+            "Magyar": "Loading...",
+            "Portugues": "Loading...",
+            "日本人(Japanese)": "Loading...",
+            "中文(chinese)": "Loading..."
+        },
+        {
+            "English": "This Week",
+            "Espanol": "Loading...",
+            "Romana": "Loading...",
+            "Magyar": "Loading...",
+            "Portugues": "Loading...",
+            "日本人(Japanese)": "Loading...",
+            "中文(chinese)": "Loading..."
+        },
+        {
+            "English": "My Schedule",
+            "Espanol": "Loading...",
+            "Romana": "Loading...",
+            "Magyar": "Loading...",
+            "Portugues": "Loading...",
+            "日本人(Japanese)": "Loading...",
+            "中文(chinese)": "Loading..."
+        },
+        {
+            "English": "My Work Preference",
+            "Espanol": "Loading...",
+            "Romana": "Loading...",
+            "Magyar": "Loading...",
+            "Portugues": "Loading...",
+            "日本人(Japanese)": "Loading...",
+            "中文(chinese)": "我的工作偏爱"
+        },
+        {
+            "English": "Edit Work Preference",
+            "Espanol": "Editar preferencia laboral",
+            "Romana": "Editați preferința de lucru",
+            "Magyar": "A munka preferenciájának szerkesztése",
+            "Portugues": "Editar preferência de trabalho",
+            "日本人(Japanese)": "作業の好みを編集します",
+            "中文(chinese)": "编辑工作偏好"
+        }
+    ]
