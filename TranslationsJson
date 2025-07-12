@@ -1,0 +1,647 @@
+[
+  {
+    "English": "Domain"
+  },
+  {
+    "English": "Change domain?"
+  },
+  {
+    "English": "Email"
+  },
+  {
+    "English": "Phone"
+  },
+  {
+    "English": "Email/Phone"
+  },
+  {
+    "English": "First Name"
+  },
+  {
+    "English": "Last Name"
+  },
+  {
+    "English": "Become Member"
+  },
+  {
+    "English": "You don't seem to be part of any organization."
+  },
+  {
+    "English": "Want to become a Veris member?"
+  },
+  {
+    "English": "Which account do you wish to continue with?"
+  },
+  {
+    "English": "OTP sent to"
+  },
+  {
+    "English": "OTP is invalid or has expired"
+  },
+  {
+    "English": "Verifying OTP"
+  },
+  {
+    "English": "Resending OTP"
+  },
+  {
+    "English": "Resend OTP"
+  },
+  {
+    "English": "Not your contact?"
+  },
+  {
+    "English": "Don't know your domain?"
+  },
+  {
+    "English": "Log in with domain"
+  },
+  {
+    "English": "Getting Config"
+  },
+  {
+    "English": "Proceed"
+  },
+  {
+    "English": "Phone number is invalid"
+  },
+  {
+    "English": "Sending OTP"
+  },
+  {
+    "English": "Send OTP"
+  },
+  {
+    "English": "Employee"
+  },
+  {
+    "English": "Third Party"
+  },
+  {
+    "English": "Guest"
+  },
+  {
+    "English": "Vendor"
+  },
+  {
+    "English": "Member"
+  },
+  {
+    "English": "Visitor"
+  },
+  {
+    "English": "ACTIVITIES"
+  },
+  {
+    "English": "Activities"
+  },
+  {
+    "English": "BADGE"
+  },
+  {
+    "English": "Badge"
+  },
+  {
+    "English": "INVITES"
+  },
+  {
+    "English": "Invites"
+  },
+  {
+    "English": "Archived"
+  },
+  {
+    "English": "Upcoming"
+  },
+  {
+    "English": "Loading..."
+  },
+  {
+    "English": "results found"
+  },
+  {
+    "English": "No upcoming invites"
+  },
+  {
+    "English": "Request Timeout"
+  },
+  {
+    "English": "Created today"
+  },
+  {
+    "English": "N/A"
+  },
+  {
+    "English": "Invited {{count}} day ago"
+  },
+  {
+    "English": "Invited {{count}} days ago"
+  },
+  {
+    "English": "Duration"
+  },
+  {
+    "English": "Time"
+  },
+  {
+    "English": "Date"
+  },
+  {
+    "English": "at"
+  },
+  {
+    "English": "has requested an invite"
+  },
+  {
+    "English": "You invited"
+  },
+  {
+    "English": "invited you"
+  },
+  {
+    "English": "Invited you"
+  },
+  {
+    "English": "Cancelled"
+  },
+  {
+    "English": "Scheduled"
+  },
+  {
+    "English": "Expired"
+  },
+  {
+    "English": "Fetching Details..."
+  },
+  {
+    "English": "Canceling Invite"
+  },
+  {
+    "English": "Cancel Invite"
+  },
+  {
+    "English": "Are you sure you want to cancel this invite?"
+  },
+  {
+    "English": "No"
+  },
+  {
+    "English": "Yes"
+  },
+  {
+    "English": "Accept without accessories"
+  },
+  {
+    "English": "Accept"
+  },
+  {
+    "English": "Reject"
+  },
+  {
+    "English": "Scan this QR at Veris Terminal"
+  },
+  {
+    "English": "MINUTES"
+  },
+  {
+    "English": "HOURS"
+  },
+  {
+    "English": "DAYS"
+  },
+  {
+    "English": "Invite Details"
+  },
+  {
+    "English": "{{count}} result found"
+  },
+  {
+    "English": "{{count}} results found"
+  },
+  {
+    "English": "QR will refresh in {{count}} second"
+  },
+  {
+    "English": "QR will refresh in {{count}} seconds"
+  },
+  {
+    "English": "Scan QR"
+  },
+  {
+    "English": "Scan Beacon"
+  },
+  {
+    "English": "Your Activities"
+  },
+  {
+    "English": "Your Guests'"
+  },
+  {
+    "English": "No Activities"
+  },
+  {
+    "English": "New Invite"
+  },
+  {
+    "English": "Venue"
+  },
+  {
+    "English": "Start Time"
+  },
+  {
+    "English": "End Time"
+  },
+  {
+    "English": "End time should be greater than start time"
+  },
+  {
+    "English": "Start time should be greater than current time. Please select start time again"
+  },
+  {
+    "English": "Start time should be greater than current time"
+  },
+  {
+    "English": "Invite validity"
+  },
+  {
+    "English": "to"
+  },
+  {
+    "English": "Cancel"
+  },
+  {
+    "English": "Confirm"
+  },
+  {
+    "English": "Agenda"
+  },
+  {
+    "English": "Visitor Category"
+  },
+  {
+    "English": "No details to be filled here."
+  },
+  {
+    "English": "Create Invite"
+  },
+  {
+    "English": "Creating Invite"
+  },
+  {
+    "English": "Your guest has been invited."
+  },
+  {
+    "English": "Please select a venue"
+  },
+  {
+    "English": "No workflows present"
+  },
+  {
+    "English": "Something went wrong!"
+  },
+  {
+    "English": "*Special approval might be required for this."
+  },
+  {
+    "English": "Done"
+  },
+  {
+    "English": "Allow accessories (mobile/laptop/etc."
+  },
+  {
+    "English": "Please select items you want to carry"
+  },
+  {
+    "English": "You visited"
+  },
+  {
+    "English": "visited you at"
+  },
+  {
+    "English": "Check In"
+  },
+  {
+    "English": "Check Out"
+  },
+  {
+    "English": "Visited today"
+  },
+  {
+    "English": "Visited {{count}} day ago"
+  },
+  {
+    "English": "Visited {{count}} days ago"
+  },
+  {
+    "English": "Checked In"
+  },
+  {
+    "English": "Checked Out"
+  },
+  {
+    "English": "Scan"
+  },
+  {
+    "English": "Activity Details"
+  },
+  {
+    "English": "You visited {{venueName}} to meet {{meetingWithName}}"
+  },
+  {
+    "English": "visited"
+  },
+  {
+    "English": "to meet you."
+  },
+  {
+    "English": "Scanning for BLE Beacons"
+  },
+  {
+    "English": "Please enable the required permissions"
+  },
+  {
+    "English": "Settings"
+  },
+  {
+    "English": "Terms of service"
+  },
+  {
+    "English": "Know more about Veris"
+  },
+  {
+    "English": "Privacy policy"
+  },
+  {
+    "English": "Logout"
+  },
+  {
+    "English": "Version"
+  },
+  {
+    "English": "Are you sure you wish to logout？"
+  },
+  {
+    "English": "This will erase all your saved config."
+  },
+  {
+    "English": "Yes, I am Sure"
+  },
+  {
+    "English": "Minimum value can be 1"
+  },
+  {
+    "English": "Submit"
+  },
+  {
+    "English": "An input is required"
+  },
+  {
+    "English": "App's Language"
+  },
+  {
+    "English": "Choose a language"
+  },
+  {
+    "English": "Scan QR Code"
+  },
+  {
+    "English": "Please go to settings and give camera permission."
+  },
+  {
+    "English": "Enter your domain to start"
+  },
+  {
+    "English": "Enter the domain of your company to log in"
+  },
+  {
+    "English": "Enter your phone/email"
+  },
+  {
+    "English": "We'll sign you in quickly"
+  },
+  {
+    "English": "We'll send you a code to verify your contact"
+  },
+  {
+    "English": "Choose from the following SSO logins"
+  },
+  {
+    "English": "Enter your contact and password"
+  },
+  {
+    "English": "Enter your phone or email"
+  },
+  {
+    "English": "Log in with another account"
+  },
+  {
+    "English": "Continue"
+  },
+  {
+    "English": "Logging in.."
+  },
+  {
+    "English": "Login with OTP"
+  },
+  {
+    "English": "Login with password"
+  },
+  {
+    "English": "Find it here."
+  },
+  {
+    "English": "Not your company?"
+  },
+  {
+    "English": "Change here."
+  },
+  {
+    "English": "Enter your one time code"
+  },
+  {
+    "English": "Your code is sent at"
+  },
+  {
+    "English": "Mobile Number"
+  },
+  {
+    "English": "Email ID"
+  },
+  {
+    "English": "Company Name"
+  },
+  {
+    "English": "ID Type"
+  },
+  {
+    "English": "ID Number"
+  },
+  {
+    "English": "Who do you wish to meet?"
+  },
+  {
+    "English": "Purpose of Visit"
+  },
+  {
+    "English": "Arrival Instructions"
+  },
+  {
+    "English": "Destination"
+  },
+  {
+    "English": "Escort Name"
+  },
+  {
+    "English": "Escort ID"
+  },
+  {
+    "English": "Personal Item 1"
+  },
+  {
+    "English": "Personal Item 2"
+  },
+  {
+    "English": "Personal Item 3"
+  },
+  {
+    "English": "Personal Item 4"
+  },
+  {
+    "English": "Visits"
+  },
+  {
+    "English": "Could not fetch your domains"
+  },
+  {
+    "English": "Remember your domain now?"
+  },
+  {
+    "English": "Send via Message"
+  },
+  {
+    "English": "Send via E-mail"
+  },
+  {
+    "English": "Sending domain list"
+  },
+  {
+    "English": "Your Visitors"
+  },
+  {
+    "English": "Scan this QR on Veris Terminal for easy authentication."
+  },
+  {
+    "English": "Invalid code. Please try again!"
+  },
+  {
+    "English": "OTP sent to your contact"
+  },
+  {
+    "English": "Scan Veris QR to check-in"
+  },
+  {
+    "English": "optional"
+  },
+  {
+    "English": "search escort"
+  },
+  {
+    "English": "Enter minimum 3 characters to search escort"
+  },
+  {
+    "English": "I will escort the guest"
+  },
+  {
+    "English": "Set as my default venue"
+  },
+  {
+    "English": "Interview Candidate"
+  },
+  {
+    "English": "Hi"
+  },
+  {
+    "English": "Welcome to"
+  },
+  {
+    "English": "Health Status"
+  },
+  {
+    "English": "Update health declaration"
+  },
+  {
+    "English": "your health status needs to be updated"
+  },
+  {
+    "English": "UPDATE "
+  },
+  {
+    "English": "Refreshing in"
+  },
+  {
+    "English": "Apps"
+  },
+  {
+    "English": "Find Room"
+  },
+  {
+    "English": "Book Desk"
+  },
+  {
+    "English": "Upcoming Bookings"
+  },
+  {
+    "English": "No event for the day."
+  },
+  {
+    "English": "we`ll keep you updated if there are "
+  },
+  {
+    "English": "any changes."
+  },
+  {
+    "English": "Home"
+  },
+  {
+    "English": "Bookings"
+  },
+  {
+    "English": "I UNDERSTAND"
+  },
+  {
+    "English": "You do not pass the health declaration parameters to book/update a resource. You can refill the declaration if you think this is not right "
+  },
+  {
+    "English": "Book Space"
+  },
+  {
+    "English": "My Bookings"
+  },
+  {
+    "English": "Search"
+  },
+  {
+    "English": "Available"
+  },
+  {
+    "English": "Book Room"
+  },
+  {
+    "English": "Filter Space"
+  },
+  {
+    "English": "Resource Type"
+  },
+  {
+    "English": "Desk"
+  },
+  {
+    "English": "Room"
+  },
+  {
+    "English": "Resource Status"
+  },
+  {
+    "English": "Start Time and End Time"
+  }
+]

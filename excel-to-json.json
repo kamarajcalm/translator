@@ -1,40 +1,1834 @@
 {
   "Sheet1": [
     {
+      "English": "Hi",
+      "Espanol": "Hola",
+      "Romana": "Bună",
+      "Magyar": "Szia",
+      "Portugues": "Oi",
+      "日本人(Japanese)": "こんにちは",
+      "中文(chinese)": "你好",
+      "Arabic": "أهلاً"
+    },
+    {
+      "English": "Welcome to",
+      "Espanol": "Bienvenido a",
+      "Romana": "Bun venit la",
+      "Magyar": "Isten hozott a",
+      "Portugues": "Bem-vindo ao",
+      "日本人(Japanese)": "へようこそ",
+      "中文(chinese)": "欢迎来到",
+      "Arabic": "مرحبا بك في"
+    },
+    {
+      "English": "Health Status",
+      "Espanol": "Estado de salud",
+      "Romana": "Stare de sănătate",
+      "Magyar": "Egészségi állapot",
+      "Portugues": "Estado de saúde",
+      "日本人(Japanese)": "健康状態",
+      "中文(chinese)": "健康状况",
+      "Arabic": "الحالة الصحية"
+    },
+    {
+      "English": "Update health declaration",
+      "Espanol": "Actualizar declaración sanitaria",
+      "Romana": "Actualizați declarația de sănătate",
+      "Magyar": "Frissítse az egészségügyi nyilatkozatot",
+      "Portugues": "Atualizar declaração de saúde",
+      "日本人(Japanese)": "健康宣言を更新する",
+      "中文(chinese)": "更新健康申报表",
+      "Arabic": "تحديث الإقرار الصحي"
+    },
+    {
+      "English": "your health status needs to be updated",
+      "Espanol": "su estado de salud necesita ser actualizado",
+      "Romana": "starea dumneavoastră de sănătate trebuie actualizată",
+      "Magyar": "egészségi állapotát frissíteni kell",
+      "Portugues": "seu estado de saúde precisa ser atualizado",
+      "日本人(Japanese)": "あなたの健康状態を更新する必要があります",
+      "中文(chinese)": "您的健康状况需要更新",
+      "Arabic": "حالتك الصحية تحتاج إلى تحديث"
+    },
+    {
+      "English": "UPDATE ",
+      "Espanol": "ACTUALIZAR",
+      "Romana": "ACTUALIZAȚI",
+      "Magyar": "FRISSÍTÉS",
+      "Portugues": "ATUALIZAR",
+      "日本人(Japanese)": "アップデート",
+      "中文(chinese)": "更新",
+      "Arabic": "تحديث"
+    },
+    {
+      "English": "Refreshing in",
+      "Espanol": "Refrescante en",
+      "Romana": "Reîmprospătat în",
+      "Magyar": "Felfrissülés",
+      "Portugues": "Atualizando em",
+      "日本人(Japanese)": "リフレッシュ中",
+      "中文(chinese)": "令人耳目一新",
+      "Arabic": "منعش في"
+    },
+    {
+      "English": "Apps",
+      "Espanol": "Aplicaciones",
+      "Romana": "Aplicații",
+      "Magyar": "Alkalmazások elemre",
+      "Portugues": "Aplicativos",
+      "日本人(Japanese)": "アプリ",
+      "中文(chinese)": "应用",
+      "Arabic": "تطبيقات"
+    },
+    {
+      "English": "Find Room",
+      "Espanol": "encontrar habitación",
+      "Romana": "Găsiți o cameră",
+      "Magyar": "Helyet talál",
+      "Portugues": "Encontrar quarto",
+      "日本人(Japanese)": "部屋を探す",
+      "中文(chinese)": "寻找房间",
+      "Arabic": "ابحث عن الغرفة"
+    },
+    {
+      "English": "Book Desk",
+      "Espanol": "Escritorio de libros",
+      "Romana": "Birou de carte",
+      "Magyar": "Könyv íróasztal",
+      "Portugues": "Secretária de livros",
+      "日本人(Japanese)": "ブックデスク",
+      "中文(chinese)": "书台",
+      "Arabic": "مكتب الكتب"
+    },
+    {
+      "English": "Upcoming Bookings",
+      "Espanol": "Próximas reservas",
+      "Romana": "Rezervări viitoare",
+      "Magyar": "Közelgő foglalások",
+      "Portugues": "Próximas Reservas",
+      "日本人(Japanese)": "今後の予約",
+      "中文(chinese)": "即将预订",
+      "Arabic": "الحجوزات القادمة"
+    },
+    {
+      "English": "No event for the day",
+      "Espanol": "No hay evento para el día",
+      "Romana": "Niciun eveniment pentru ziua respectivă",
+      "Magyar": "Nincs esemény erre a napra",
+      "Portugues": "Nenhum evento no dia",
+      "日本人(Japanese)": "その日のイベントはありません",
+      "中文(chinese)": "当天没有活动",
+      "Arabic": "لا يوجد حدث لهذا اليوم"
+    },
+    {
+      "English": "we`ll keep you updated if there are ",
+      "Espanol": "Lo mantendremos informado si hay",
+      "Romana": "vă vom ține la curent dacă există",
+      "Magyar": "folyamatosan frissítjük, ha vannak",
+      "Portugues": "manteremos você atualizado se houver",
+      "日本人(Japanese)": "あれば最新情報をお知らせします",
+      "中文(chinese)": "如果有的话，我们会及时通知您",
+      "Arabic": "سنبقيك على اطلاع إذا كان هناك"
+    },
+    {
+      "English": "any changes",
+      "Espanol": "algún cambio",
+      "Romana": "orice modificari",
+      "Magyar": "bármilyen változást",
+      "Portugues": "quaisquer alterações",
+      "日本人(Japanese)": "変更があれば",
+      "中文(chinese)": "任何变化",
+      "Arabic": "أية تغييرات"
+    },
+    {
+      "English": "Home",
+      "Espanol": "Hogar",
+      "Romana": "Acasă",
+      "Magyar": "itthon",
+      "Portugues": "Lar",
+      "日本人(Japanese)": "家",
+      "中文(chinese)": "家",
+      "Arabic": "بيت"
+    },
+    {
+      "English": "Bookings",
+      "Espanol": "Reservaciones",
+      "Romana": "Rezervări",
+      "Magyar": "Foglalások",
+      "Portugues": "Reservas",
+      "日本人(Japanese)": "予約",
+      "中文(chinese)": "预订",
+      "Arabic": "الحجوزات"
+    },
+    {
+      "English": "I UNDERSTAND",
+      "Espanol": "ENTIENDO",
+      "Romana": "AM ÎNȚELES",
+      "Magyar": "MEGÉRTEM",
+      "Portugues": "EU ENTENDO",
+      "日本人(Japanese)": "わかりました",
+      "中文(chinese)": "我明白",
+      "Arabic": "أفهم"
+    },
+    {
+      "English": "You do not pass the health declaration parameters to book/update a resource. You can refill the declaration if you think this is not right ",
+      "Espanol": "No pasa los parámetros de declaración de salud para reservar/actualizar un recurso. Puedes rellenar la declaración si crees que esto no está bien",
+      "Romana": "Nu treceți parametrii declarației de sănătate pentru a rezerva/actualiza o resursă. Puteți completa declarația dacă credeți că acest lucru nu este corect",
+      "Magyar": "Nem adja át az állapotnyilatkozat paramétereit egy erőforrás lefoglalásához/frissítéséhez. A nyilatkozatot újra kitöltheti, ha úgy gondolja, hogy ez nem helyes",
+      "Portugues": "Você não passa os parâmetros da declaração de integridade para reservar/atualizar um recurso. Você pode reabastecer a declaração se achar que isso não está certo",
+      "日本人(Japanese)": "リソースを予約/更新するために正常性宣言パラメーターを渡しません。これが正しくないと思われる場合は、申告をやり直すことができます",
+      "中文(chinese)": "您不传递健康声明参数来预订/更新资源。如果您认为不正确，可以重新填写声明",
+      "Arabic": "لا تقم بتمرير معلمات إقرار الصحة لحجز/تحديث أحد الموارد. يمكنك إعادة ملء الإقرار إذا كنت تعتقد أن هذا غير صحيح"
+    },
+    {
+      "English": "Book Space",
+      "Espanol": "Espacio para reservar",
+      "Romana": "Spațiu de carte",
+      "Magyar": "Book Space",
+      "Portugues": "Espaço para livros",
+      "日本人(Japanese)": "ブックスペース",
+      "中文(chinese)": "图书空间",
+      "Arabic": "مساحة الكتاب"
+    },
+    {
+      "English": "My Bookings",
+      "Espanol": "Mis Reservas",
+      "Romana": "Rezervările mele",
+      "Magyar": "Saját foglalásaim",
+      "Portugues": "Minhas reservas",
+      "日本人(Japanese)": "私の予約",
+      "中文(chinese)": "我的预订",
+      "Arabic": "حجوزاتي"
+    },
+    {
+      "English": "Search",
+      "Espanol": "Buscar",
+      "Romana": "Căutare",
+      "Magyar": "Keresés",
+      "Portugues": "Procurar",
+      "日本人(Japanese)": "検索",
+      "中文(chinese)": "搜索",
+      "Arabic": "يبحث"
+    },
+    {
+      "English": "Available",
+      "Espanol": "Disponible",
+      "Romana": "Disponibil",
+      "Magyar": "Elérhető",
+      "Portugues": "Disponível",
+      "日本人(Japanese)": "利用可能",
+      "中文(chinese)": "可用的",
+      "Arabic": "متاح"
+    },
+    {
+      "English": "Book Room",
+      "Espanol": "Reservar habitación",
+      "Romana": "Rezervați camera",
+      "Magyar": "Könyvszoba",
+      "Portugues": "Sala de Reservas",
+      "日本人(Japanese)": "ブックルーム",
+      "中文(chinese)": "书房",
+      "Arabic": "غرفة الكتاب"
+    },
+    {
+      "English": "Filter Space",
+      "Espanol": "Filtrar espacio",
+      "Romana": "Spațiu de filtrare",
+      "Magyar": "Szűrőhely",
+      "Portugues": "Espaço de filtro",
+      "日本人(Japanese)": "フィルタースペース",
+      "中文(chinese)": "过滤空间",
+      "Arabic": "مساحة التصفية"
+    },
+    {
+      "English": "Resource Type",
+      "Espanol": "Tipo de recurso",
+      "Romana": "Tipul de resursă",
+      "Magyar": "Erőforrás típusa",
+      "Portugues": "Tipo de recurso",
+      "日本人(Japanese)": "リソースの種類",
+      "中文(chinese)": "资源类型",
+      "Arabic": "نوع المورد"
+    },
+    {
+      "English": "Desk",
+      "Espanol": "Escritorio",
+      "Romana": "Birou",
+      "Magyar": "Asztal",
+      "Portugues": "Mesa",
+      "日本人(Japanese)": "机",
+      "中文(chinese)": "桌子",
+      "Arabic": "مكتب"
+    },
+    {
+      "English": "Room",
+      "Espanol": "Habitación",
+      "Romana": "Cameră",
+      "Magyar": "Szoba",
+      "Portugues": "Sala",
+      "日本人(Japanese)": "部屋",
+      "中文(chinese)": "房间",
+      "Arabic": "غرفة"
+    },
+    {
+      "English": "Available",
+      "Espanol": "Disponible",
+      "Romana": "Disponibil",
+      "Magyar": "Elérhető",
+      "Portugues": "Disponível",
+      "日本人(Japanese)": "利用可能",
+      "中文(chinese)": "可用的",
+      "Arabic": "متاح"
+    },
+    {
+      "English": "Resource Status",
+      "Espanol": "Estado del recurso",
+      "Romana": "Starea resurselor",
+      "Magyar": "Erőforrás állapota",
+      "Portugues": "Status do recurso",
+      "日本人(Japanese)": "リソースのステータス",
+      "中文(chinese)": "资源状况",
+      "Arabic": "حالة الموارد"
+    },
+    {
+      "English": "Start Time and End Time",
+      "Espanol": "Hora de inicio y hora de finalización",
+      "Romana": "Ora de început și ora de sfârșit",
+      "Magyar": "Kezdési időpont és befejezési idő",
+      "Portugues": "Hora de início e hora de término",
+      "日本人(Japanese)": "開始時刻と終了時刻",
+      "中文(chinese)": "开始时间和结束时间",
+      "Arabic": "وقت البدء ووقت الانتهاء"
+    },
+    {
+      "English": "Venue",
+      "Espanol": "Evento",
+      "Romana": "Locul de desfășurare",
+      "Magyar": "Helyszín",
+      "Portugues": "Local",
+      "日本人(Japanese)": "会場",
+      "中文(chinese)": "场地",
+      "Arabic": "مكان"
+    },
+    {
+      "English": "Select a Venue",
+      "Espanol": "Seleccione un lugar",
+      "Romana": "Selectați un loc",
+      "Magyar": "Válasszon egy helyszínt",
+      "Portugues": "Selecione um local",
+      "日本人(Japanese)": "会場を選択してください",
+      "中文(chinese)": "选择场地",
+      "Arabic": "اختر مكانًا"
+    },
+    {
+      "English": "Amenities",
+      "Espanol": "Comodidades",
+      "Romana": "Facilități",
+      "Magyar": "Felszereltség",
+      "Portugues": "Facilidades",
+      "日本人(Japanese)": "アメニティ",
+      "中文(chinese)": "便利设施",
+      "Arabic": "وسائل الراحة"
+    },
+    {
+      "English": "Space Tags",
+      "Espanol": "Etiquetas espaciales",
+      "Romana": "Etichete de spațiu",
+      "Magyar": "Space Tags",
+      "Portugues": "Etiquetas espaciais",
+      "日本人(Japanese)": "スペースタグ",
+      "中文(chinese)": "空间标签",
+      "Arabic": "العلامات الفضائية"
+    },
+    {
+      "English": "Clear",
+      "Espanol": "Claro",
+      "Romana": "clar",
+      "Magyar": "Egyértelmű",
+      "Portugues": "Claro",
+      "日本人(Japanese)": "クリア",
+      "中文(chinese)": "清除",
+      "Arabic": "واضح"
+    },
+    {
+      "English": "Find a Space",
+      "Espanol": "Encuentra un espacio",
+      "Romana": "Găsiți un spațiu",
+      "Magyar": "Találj egy teret",
+      "Portugues": "Encontre um espaço",
+      "日本人(Japanese)": "スペースを探す",
+      "中文(chinese)": "寻找空间",
+      "Arabic": "ابحث عن مساحة"
+    },
+    {
+      "English": "No Bookings",
+      "Espanol": "Sin reservas",
+      "Romana": "Fara rezervari",
+      "Magyar": "Nincs foglalás",
+      "Portugues": "Sem reservas",
+      "日本人(Japanese)": "予約なし",
+      "中文(chinese)": "没有预订",
+      "Arabic": "لا حجوزات"
+    },
+    {
+      "English": "You have no spaces booked for the day",
+      "Espanol": "No tienes plazas reservadas para el día",
+      "Romana": "Nu aveți locuri rezervate pentru ziua respectivă",
+      "Magyar": "Nincs lefoglalt helyed erre a napra",
+      "Portugues": "Você não tem vagas reservadas para o dia",
+      "日本人(Japanese)": "その日の予約スペースはありません",
+      "中文(chinese)": "您当天没有预订空位",
+      "Arabic": "ليس لديك أماكن محجوزة لهذا اليوم"
+    },
+    {
+      "English": "Search by Space, Location, Status",
+      "Espanol": "Buscar por Espacio, Ubicación, Estado",
+      "Romana": "Căutați după spațiu, locație, stare",
+      "Magyar": "Keresés tér, hely, állapot szerint",
+      "Portugues": "Pesquise por espaço, localização, status",
+      "日本人(Japanese)": "スペース、場所、ステータスから検索",
+      "中文(chinese)": "按空间、位置、状态搜索",
+      "Arabic": "البحث حسب المساحة والموقع والحالة"
+    },
+    {
+      "English": "Manage Booking",
+      "Espanol": "Gestionar reserva",
+      "Romana": "Gestionați rezervarea",
+      "Magyar": "Foglalás kezelése",
+      "Portugues": "Gerenciar reserva",
+      "日本人(Japanese)": "予約の管理",
+      "中文(chinese)": "管理预订",
+      "Arabic": "إدارة الحجز"
+    },
+    {
+      "English": "Cancel This Booking",
+      "Espanol": "Cancelar esta reserva",
+      "Romana": "Anulați această rezervare",
+      "Magyar": "Törölje ezt a foglalást",
+      "Portugues": "Cancelar esta reserva",
+      "日本人(Japanese)": "この予約をキャンセルする",
+      "中文(chinese)": "取消此预订",
+      "Arabic": "إلغاء هذا الحجز"
+    },
+    {
+      "English": "Cancel All Recurring Booking",
+      "Espanol": "Cancelar todas las reservas recurrentes",
+      "Romana": "Anulați toate rezervările recurente",
+      "Magyar": "Törölje az összes ismétlődő foglalást",
+      "Portugues": "Cancelar todas as reservas recorrentes",
+      "日本人(Japanese)": "定期的な予約をすべてキャンセルする",
+      "中文(chinese)": "取消所有定期预订",
+      "Arabic": "إلغاء كافة الحجوزات المتكررة"
+    },
+    {
+      "English": "Not Available",
+      "Espanol": "No disponible",
+      "Romana": "Nu este disponibil",
+      "Magyar": "Nem elérhető",
+      "Portugues": "Não disponível",
+      "日本人(Japanese)": "利用不可",
+      "中文(chinese)": "无法使用",
+      "Arabic": "غير متاح"
+    },
+    {
+      "English": "Booked",
+      "Espanol": "Reservado",
+      "Romana": "Rezervat",
+      "Magyar": "Foglalt",
+      "Portugues": "Reservado",
+      "日本人(Japanese)": "予約済み",
+      "中文(chinese)": "已预订",
+      "Arabic": "حجز"
+    },
+    {
+      "English": "Work Schedule",
+      "Espanol": "Horario de trabajo",
+      "Romana": "Program de lucru",
+      "Magyar": "Munkarend",
+      "Portugues": "Horário de trabalho",
+      "日本人(Japanese)": "仕事のスケジュール",
+      "中文(chinese)": "工作日程",
+      "Arabic": "جدول العمل"
+    },
+    {
+      "English": "My Profile",
+      "Espanol": "Mi perfil",
+      "Romana": "Profilul meu",
+      "Magyar": "A profilom",
+      "Portugues": "Meu perfil",
+      "日本人(Japanese)": "私のプロフィール",
+      "中文(chinese)": "我的简历",
+      "Arabic": "ملفي"
+    },
+    {
+      "English": "This Week",
+      "Espanol": "Esta semana",
+      "Romana": "În această săptămână",
+      "Magyar": "Ezen a héten",
+      "Portugues": "Essa semana",
+      "日本人(Japanese)": "今週",
+      "中文(chinese)": "本星期",
+      "Arabic": "هذا الاسبوع"
+    },
+    {
+      "English": "My Schedule",
+      "Espanol": "Mi horario",
+      "Romana": "Programul meu",
+      "Magyar": "Saját ütemterv",
+      "Portugues": "Meu horário",
+      "日本人(Japanese)": "私のスケジュール",
+      "中文(chinese)": "我的日程表",
+      "Arabic": "جدولي"
+    },
+    {
+      "English": "My Work Preference",
+      "Espanol": "Mi preferencia laboral",
+      "Romana": "Preferința mea de muncă",
+      "Magyar": "Munkahelyi preferenciám",
+      "Portugues": "Minha preferência de trabalho",
+      "日本人(Japanese)": "私の仕事の好み",
+      "中文(chinese)": "我的工作偏好",
+      "Arabic": "تفضيلات العمل الخاصة بي"
+    },
+    {
+      "English": "Edit Work Preference",
+      "Espanol": "Editar preferencia de trabajo",
+      "Romana": "Editați preferința de lucru",
+      "Magyar": "Munkabeállítás szerkesztése",
+      "Portugues": "Editar preferência de trabalho",
+      "日本人(Japanese)": "作業設定の編集",
+      "中文(chinese)": "编辑工作偏好",
+      "Arabic": "تحرير تفضيلات العمل"
+    },
+    {
+      "English": "My Team",
+      "Espanol": "Mi equipo",
+      "Romana": "Echipa mea",
+      "Magyar": "Az én csapatom",
+      "Portugues": "Meu time",
+      "日本人(Japanese)": "私のチーム",
+      "中文(chinese)": "我的团队",
+      "Arabic": "فريقي"
+    },
+    {
+      "English": "approved",
+      "Espanol": "aprobado",
+      "Romana": "aprobat",
+      "Magyar": "jóváhagyott",
+      "Portugues": "aprovado",
+      "日本人(Japanese)": "承認された",
+      "中文(chinese)": "得到正式认可的",
+      "Arabic": "موافقة"
+    },
+    {
+      "English": "Approved for office",
+      "Espanol": "Aprobado para la oficina",
+      "Romana": "Aprobat pentru birou",
+      "Magyar": "Hivatalra jóváhagyva",
+      "Portugues": "Aprovado para escritório",
+      "日本人(Japanese)": "就任が承認されました",
+      "中文(chinese)": "获准办公",
+      "Arabic": "تمت الموافقة عليه للمنصب"
+    },
+    {
+      "English": "blocked",
+      "Espanol": "obstruido",
+      "Romana": "blocat",
+      "Magyar": "zárolt",
+      "Portugues": "bloqueado",
+      "日本人(Japanese)": "ブロックされました",
+      "中文(chinese)": "被阻止",
+      "Arabic": "محظور"
+    },
+    {
+      "English": "Not approved for office",
+      "Espanol": "No aprobado para el cargo",
+      "Romana": "Neaprobat pentru birou",
+      "Magyar": "Hivatalra nem engedélyezett",
+      "Portugues": "Não aprovado para cargo",
+      "日本人(Japanese)": "役職に就くことが認められていない",
+      "中文(chinese)": "未获批准任职",
+      "Arabic": "لم تتم الموافقة عليه للمنصب"
+    },
+    {
+      "English": "You are approved for work",
+      "Espanol": "Estás aprobado para trabajar.",
+      "Romana": "Esti aprobat pentru munca",
+      "Magyar": "Ön jóváhagyott a munkára",
+      "Portugues": "Você está aprovado para trabalhar",
+      "日本人(Japanese)": "あなたは仕事を承認されました",
+      "中文(chinese)": "您已获准工作",
+      "Arabic": "تمت الموافقة عليك للعمل"
+    },
+    {
+      "English": "You are not approved for work",
+      "Espanol": "No estás aprobado para trabajar.",
+      "Romana": "Nu ești aprobat pentru muncă",
+      "Magyar": "Nem vagy jóváhagyva a munkára",
+      "Portugues": "Você não está aprovado para trabalhar",
+      "日本人(Japanese)": "あなたは就労を承認されていません",
+      "中文(chinese)": "您未被批准工作",
+      "Arabic": "لم تتم الموافقة عليك للعمل"
+    },
+    {
+      "English": "Your health status needs to be updated",
+      "Espanol": "Su estado de salud necesita ser actualizado",
+      "Romana": "Starea dumneavoastră de sănătate trebuie să fie actualizată",
+      "Magyar": "Egészségi állapotát frissíteni kell",
+      "Portugues": "Seu estado de saúde precisa ser atualizado",
+      "日本人(Japanese)": "健康状態を更新する必要があります",
+      "中文(chinese)": "您的健康状况需要更新",
+      "Arabic": "يجب تحديث حالتك الصحية"
+    },
+    {
+      "English": "RE-SUBMIT",
+      "Espanol": "VOLVER A ENVIAR",
+      "Romana": "RETRIMITERE",
+      "Magyar": "ÚJRA KÜLDÉS",
+      "Portugues": "REENVIAR",
+      "日本人(Japanese)": "再提出",
+      "中文(chinese)": "重新提交",
+      "Arabic": "إعادة الإرسال"
+    },
+    {
+      "English": "Search Member",
+      "Espanol": "Buscar miembro",
+      "Romana": "Caută membru",
+      "Magyar": "Tag keresése",
+      "Portugues": "Pesquisar membro",
+      "日本人(Japanese)": "メンバーを検索",
+      "中文(chinese)": "搜索会员",
+      "Arabic": "البحث عن عضو"
+    },
+    {
+      "English": "This",
+      "Espanol": "Este",
+      "Romana": "Acest",
+      "Magyar": "Ez",
+      "Portugues": "Esse",
+      "日本人(Japanese)": "これ",
+      "中文(chinese)": "这",
+      "Arabic": "هذا"
+    },
+    {
+      "English": "Week",
+      "Espanol": "Semana",
+      "Romana": "Săptămână",
+      "Magyar": "Hét",
+      "Portugues": "Semana",
+      "日本人(Japanese)": "週",
+      "中文(chinese)": "星期",
+      "Arabic": "أسبوع"
+    },
+    {
+      "English": "Timings",
+      "Espanol": "Horarios",
+      "Romana": "Timinguri",
+      "Magyar": "Időzítések",
+      "Portugues": "Horários",
+      "日本人(Japanese)": "タイミング",
+      "中文(chinese)": "时间安排",
+      "Arabic": "توقيت"
+    },
+    {
+      "English": "Location",
+      "Espanol": "Ubicación",
+      "Romana": "Locație",
+      "Magyar": "Elhelyezkedés",
+      "Portugues": "Localização",
+      "日本人(Japanese)": "位置",
+      "中文(chinese)": "地点",
+      "Arabic": "موقع"
+    },
+    {
+      "English": "Not Updated",
+      "Espanol": "No actualizado",
+      "Romana": "Neactualizat",
+      "Magyar": "Nem frissített",
+      "Portugues": "Não atualizado",
+      "日本人(Japanese)": "更新されていない",
+      "中文(chinese)": "未更新",
+      "Arabic": "غير محدث"
+    },
+    {
+      "English": "Work",
+      "Espanol": "Trabajar",
+      "Romana": "Muncă",
+      "Magyar": "Munka",
+      "Portugues": "Trabalhar",
+      "日本人(Japanese)": "仕事",
+      "中文(chinese)": "工作",
+      "Arabic": "عمل"
+    },
+    {
+      "English": "Confirm Booking",
+      "Espanol": "Reserva confirmada",
+      "Romana": "Confirmați rezervarea",
+      "Magyar": "Foglalás megerősítése",
+      "Portugues": "Confirmar reserva",
+      "日本人(Japanese)": "予約を確認する",
+      "中文(chinese)": "确认预订",
+      "Arabic": "تأكيد الحجز"
+    },
+    {
+      "English": "Attendee",
+      "Espanol": "Asistente",
+      "Romana": "Participant",
+      "Magyar": "Résztvevő",
+      "Portugues": "Participante",
+      "日本人(Japanese)": "出席者",
+      "中文(chinese)": "出席者",
+      "Arabic": "الحضور"
+    },
+    {
+      "English": "Date",
+      "Espanol": "Fecha",
+      "Romana": "Data",
+      "Magyar": "Dátum",
+      "Portugues": "Data",
+      "日本人(Japanese)": "日付",
+      "中文(chinese)": "日期",
+      "Arabic": "تاريخ"
+    },
+    {
+      "English": "Start Time ",
+      "Espanol": "Hora de inicio",
+      "Romana": "Timpul de începere",
+      "Magyar": "Kezdési idő",
+      "Portugues": "Hora de início",
+      "日本人(Japanese)": "始まる時間",
+      "中文(chinese)": "开始时间",
+      "Arabic": "وقت البدء"
+    },
+    {
+      "English": "End Time",
+      "Espanol": "Hora de finalización",
+      "Romana": "Sfârșitul timpului",
+      "Magyar": "Idő vége",
+      "Portugues": "Fim do tempo",
+      "日本人(Japanese)": "終了時間",
+      "中文(chinese)": "时间结束",
+      "Arabic": "وقت النهاية"
+    },
+    {
+      "English": "Donot repeat",
+      "Espanol": "No repitas",
+      "Romana": "Nu repeta",
+      "Magyar": "Ne ismételje meg",
+      "Portugues": "Não repita",
+      "日本人(Japanese)": "繰り返さないでください",
+      "中文(chinese)": "请勿重复",
+      "Arabic": "عدم تكرار"
+    },
+    {
+      "English": "Repeat daily",
+      "Espanol": "Repetir diariamente",
+      "Romana": "Repetați zilnic",
+      "Magyar": "Ismételje meg naponta",
+      "Portugues": "Repita diariamente",
+      "日本人(Japanese)": "毎日繰り返す",
+      "中文(chinese)": "每天重复",
+      "Arabic": "كرر يوميا"
+    },
+    {
+      "English": "Agenda",
+      "Espanol": "Agenda",
+      "Romana": "Agendă",
+      "Magyar": "Napirend",
+      "Portugues": "Agenda",
+      "日本人(Japanese)": "議題",
+      "中文(chinese)": "议程",
+      "Arabic": "جدول أعمال"
+    },
+    {
+      "English": "Enter Agenda",
+      "Espanol": "Ingresar agenda",
+      "Romana": "Introduceți Agenda",
+      "Magyar": "Írja be a napirendet",
+      "Portugues": "Entrar na agenda",
+      "日本人(Japanese)": "議題を入力してください",
+      "中文(chinese)": "输入议程",
+      "Arabic": "أدخل جدول الأعمال"
+    },
+    {
+      "English": "Instructions",
+      "Espanol": "Instrucciones",
+      "Romana": "Instrucțiuni",
+      "Magyar": "Utasítás",
+      "Portugues": "Instruções",
+      "日本人(Japanese)": "説明書",
+      "中文(chinese)": "指示",
+      "Arabic": "تعليمات"
+    },
+    {
+      "English": "Enter Instructions",
+      "Espanol": "Ingresar instrucciones",
+      "Romana": "Introduceți instrucțiuni",
+      "Magyar": "Írja be az utasításokat",
+      "Portugues": "Insira as instruções",
+      "日本人(Japanese)": "指示を入力してください",
+      "中文(chinese)": "输入说明",
+      "Arabic": "أدخل التعليمات"
+    },
+    {
+      "English": "Search Colleagues",
+      "Espanol": "Buscar colegas",
+      "Romana": "Caută colegi",
+      "Magyar": "Keresés a kollégák között",
+      "Portugues": "Pesquisar colegas",
+      "日本人(Japanese)": "同僚を検索する",
+      "中文(chinese)": "搜索同事",
+      "Arabic": "بحث الزملاء"
+    },
+    {
+      "English": "Close",
+      "Espanol": "Cerca",
+      "Romana": "Închide",
+      "Magyar": "Bezárás",
+      "Portugues": "Fechar",
+      "日本人(Japanese)": "近い",
+      "中文(chinese)": "关闭",
+      "Arabic": "يغلق"
+    },
+    {
+      "English": "Search bookings for date",
+      "Espanol": "Buscar reservas por fecha",
+      "Romana": "Căutați rezervări pentru dată",
+      "Magyar": "Foglalások keresése dátum szerint",
+      "Portugues": "Pesquisar reservas por data",
+      "日本人(Japanese)": "日付で予約を検索",
+      "中文(chinese)": "搜索预订日期",
+      "Arabic": "البحث عن الحجوزات للتاريخ"
+    },
+    {
+      "English": "Search colleague`s bookings?",
+      "Espanol": "¿Buscar reservas de colegas?",
+      "Romana": "Căutați rezervările colegilor?",
+      "Magyar": "Keresi kollégái foglalásait?",
+      "Portugues": "Pesquisar reservas de colegas?",
+      "日本人(Japanese)": "同僚の予約を検索しますか?",
+      "中文(chinese)": "搜索同事的预订？",
+      "Arabic": "البحث عن حجوزات الزملاء؟"
+    },
+    {
+      "English": "Enter minimum 3 characters to search colleague",
+      "Espanol": "Ingrese un mínimo de 3 caracteres para buscar colega",
+      "Romana": "Introduceți minim 3 caractere pentru a căuta colegul",
+      "Magyar": "Írjon be legalább 3 karaktert a kolléga kereséséhez",
+      "Portugues": "Digite no mínimo 3 caracteres para pesquisar colega",
+      "日本人(Japanese)": "同僚を検索するには少なくとも 3 文字を入力してください",
+      "中文(chinese)": "输入至少 3 个字符来搜索同事",
+      "Arabic": "أدخل 3 أحرف على الأقل للبحث عن زميل"
+    },
+    {
+      "English": "Please select a floor to proceed",
+      "Espanol": "Por favor seleccione un piso para continuar",
+      "Romana": "Vă rugăm să selectați un etaj pentru a continua",
+      "Magyar": "A folytatáshoz válasszon egy szintet",
+      "Portugues": "Selecione um andar para prosseguir",
+      "日本人(Japanese)": "フロアを選択して続行してください",
+      "中文(chinese)": "请选择楼层以继续",
+      "Arabic": "الرجاء تحديد طابق للمتابعة"
+    },
+    {
+      "English": "Follow the legend and click on a desk on the map to create/update a booking",
+      "Espanol": "Sigue la leyenda y haz clic en un escritorio en el mapa para crear/actualizar una reserva.",
+      "Romana": "Urmați legenda și faceți clic pe un birou de pe hartă pentru a crea/actualiza o rezervare",
+      "Magyar": "Kövesse a jelmagyarázatot, és kattintson egy asztalra a térképen a foglalás létrehozásához/frissítéséhez",
+      "Portugues": "Siga a legenda e clique em uma mesa no mapa para criar/atualizar uma reserva",
+      "日本人(Japanese)": "凡例に従い、地図上のデスクをクリックして予約を作成/更新します",
+      "中文(chinese)": "按照图例并单击地图上的办公桌以创建/更新预订",
+      "Arabic": "اتبع وسيلة الإيضاح وانقر على المكتب الموجود على الخريطة لإنشاء/تحديث الحجز"
+    },
+    {
+      "English": "Pan to zoom in",
+      "Espanol": "Desplazarse para acercar",
+      "Romana": "Pana pentru a mări",
+      "Magyar": "Pásztázás a nagyításhoz",
+      "Portugues": "Desloque para ampliar",
+      "日本人(Japanese)": "パンしてズームインする",
+      "中文(chinese)": "平移以放大",
+      "Arabic": "عموم للتكبير"
+    },
+    {
+      "English": "Pinch to zoom out",
+      "Espanol": "Pellizcar para alejar",
+      "Romana": "Ciupiți pentru a micșora",
+      "Magyar": "Csípje össze a kicsinyítéshez",
+      "Portugues": "Aperte para diminuir o zoom",
+      "日本人(Japanese)": "ピンチしてズームアウトします",
+      "中文(chinese)": "捏合缩小",
+      "Arabic": "قرصة للتصغير"
+    },
+    {
+      "English": "Assigned",
+      "Espanol": "Asignado",
+      "Romana": "Alocat",
+      "Magyar": "Kijelölt",
+      "Portugues": "Atribuído",
+      "日本人(Japanese)": "割り当て済み",
+      "中文(chinese)": "已分配",
+      "Arabic": "مُكَلَّف"
+    },
+    {
+      "English": "Inactive",
+      "Espanol": "Inactivo",
+      "Romana": "Inactiv",
+      "Magyar": "Inaktív",
+      "Portugues": "Inativo",
+      "日本人(Japanese)": "非活性",
+      "中文(chinese)": "不活跃",
+      "Arabic": "غير نشط"
+    },
+    {
+      "English": "Type member name",
+      "Espanol": "Escriba el nombre del miembro",
+      "Romana": "Tastați numele membrului",
+      "Magyar": "Írja be a tag nevét",
+      "Portugues": "Digite o nome do membro",
+      "日本人(Japanese)": "型メンバー名",
+      "中文(chinese)": "输入会员姓名",
+      "Arabic": "اكتب اسم العضو"
+    },
+    {
+      "English": "Add attendee manually",
+      "Espanol": "Agregar asistente manualmente",
+      "Romana": "Adăugați un participant manual",
+      "Magyar": "Résztvevő manuális hozzáadása",
+      "Portugues": "Adicionar participante manualmente",
+      "日本人(Japanese)": "出席者を手動で追加する",
+      "中文(chinese)": "手动添加与会者",
+      "Arabic": "أضف الحضور يدويًا"
+    },
+    {
+      "English": "Enter Contact",
+      "Espanol": "Ingresar contacto",
+      "Romana": "Introduceți Contact",
+      "Magyar": "Adja meg a Kapcsolat lehetőséget",
+      "Portugues": "Insira o contato",
+      "日本人(Japanese)": "連絡先を入力してください",
+      "中文(chinese)": "输入联系方式",
+      "Arabic": "أدخل جهة الاتصال"
+    },
+    {
+      "English": "First name",
+      "Espanol": "Nombre de pila",
+      "Romana": "Nume",
+      "Magyar": "Keresztnév",
+      "Portugues": "Primeiro nome",
+      "日本人(Japanese)": "ファーストネーム",
+      "中文(chinese)": "名",
+      "Arabic": "الاسم الأول"
+    },
+    {
+      "English": "Last name",
+      "Espanol": "Apellido",
+      "Romana": "Nume",
+      "Magyar": "Vezetéknév",
+      "Portugues": "Sobrenome",
+      "日本人(Japanese)": "苗字",
+      "中文(chinese)": "姓",
+      "Arabic": "اسم العائلة"
+    },
+    {
+      "English": "Add ",
+      "Espanol": "Agregar",
+      "Romana": "Adăuga",
+      "Magyar": "Hozzáadás",
+      "Portugues": "Adicionar",
+      "日本人(Japanese)": "追加",
+      "中文(chinese)": "添加",
+      "Arabic": "يضيف"
+    },
+    {
+      "English": "Please Add Atleast one Attendee",
+      "Espanol": "Agregue al menos un asistente",
+      "Romana": "Vă rugăm să adăugați cel puțin un participant",
+      "Magyar": "Kérjük, adjon hozzá legalább egy résztvevőt",
+      "Portugues": "Adicione pelo menos um participante",
+      "日本人(Japanese)": "少なくとも 1 人の出席者を追加してください",
+      "中文(chinese)": "请添加至少一名与会者",
+      "Arabic": "الرجاء إضافة حاضر واحد على الأقل"
+    },
+    {
+      "English": "Member not found, add manually",
+      "Espanol": "Miembro no encontrado, agregar manualmente",
+      "Romana": "Membru nu a fost găsit, adăugați manual",
+      "Magyar": "Tag nem található, adja hozzá manuálisan",
+      "Portugues": "Membro não encontrado, adicione manualmente",
+      "日本人(Japanese)": "メンバーが見つかりません。手動で追加してください",
+      "中文(chinese)": "未找到会员，手动添加",
+      "Arabic": "لم يتم العثور على العضو، قم بإضافته يدويًا"
+    },
+    {
+      "English": "Domain field can't be empty",
+      "Espanol": "El campo de dominio no puede estar vacío",
+      "Romana": "Câmpul domeniu nu poate fi gol",
+      "Magyar": "A Domain mező nem lehet üres",
+      "Portugues": "O campo domínio não pode ficar vazio",
+      "日本人(Japanese)": "ドメインフィールドを空にすることはできません",
+      "中文(chinese)": "域名字段不能为空",
+      "Arabic": "لا يمكن أن يكون حقل المجال فارغًا"
+    },
+    {
+      "English": " Domain was not found!",
+      "Espanol": "¡El dominio no fue encontrado!",
+      "Romana": "Domeniul nu a fost găsit!",
+      "Magyar": "A domain nem található!",
+      "Portugues": "O domínio não foi encontrado!",
+      "日本人(Japanese)": "ドメインが見つかりませんでした!",
+      "中文(chinese)": "未找到域名！",
+      "Arabic": "لم يتم العثور على المجال!"
+    },
+    {
+      "English": "App Language",
+      "Espanol": "Idioma de la aplicación",
+      "Romana": "Limba aplicației",
+      "Magyar": "Alkalmazás nyelve",
+      "Portugues": "Idioma do aplicativo",
+      "日本人(Japanese)": "アプリの言語",
+      "中文(chinese)": "应用程序语言",
+      "Arabic": "لغة التطبيق"
+    },
+    {
+      "English": "Notification Preference",
+      "Espanol": "Preferencia de notificación",
+      "Romana": "Preferință de notificare",
+      "Magyar": "Értesítési preferencia",
+      "Portugues": "Preferência de notificação",
+      "日本人(Japanese)": "通知設定",
+      "中文(chinese)": "通知偏好",
+      "Arabic": "تفضيلات الإخطار"
+    },
+    {
+      "English": "Base Location",
+      "Espanol": "Ubicación básica",
+      "Romana": "Locația de bază",
+      "Magyar": "Bázis Helyszín",
+      "Portugues": "Localização básica",
+      "日本人(Japanese)": "拠点の場所",
+      "中文(chinese)": "基地位置",
+      "Arabic": "موقع القاعدة"
+    },
+    {
+      "English": "LOGOUT",
+      "Espanol": "CERRAR SESIÓN",
+      "Romana": "LOGOUT",
+      "Magyar": "KIJELENTKEZÉS",
+      "Portugues": "SAIR",
+      "日本人(Japanese)": "ログアウト",
+      "中文(chinese)": "登出",
+      "Arabic": "تسجيل خروج"
+    },
+    {
+      "English": "Version",
+      "Espanol": "Versión",
+      "Romana": "Versiune",
+      "Magyar": "Változat",
+      "Portugues": "Versão",
+      "日本人(Japanese)": "バージョン",
+      "中文(chinese)": "版本",
+      "Arabic": "إصدار"
+    },
+    {
+      "English": "Today",
+      "Espanol": "Hoy",
+      "Romana": "Astăzi",
+      "Magyar": "Ma",
+      "Portugues": "Hoje",
+      "日本人(Japanese)": "今日",
+      "中文(chinese)": "今天",
+      "Arabic": "اليوم"
+    },
+    {
+      "English": "Tomorrow",
+      "Espanol": "Mañana",
+      "Romana": "Mâine",
+      "Magyar": "Holnap",
+      "Portugues": "Amanhã",
+      "日本人(Japanese)": "明日",
+      "中文(chinese)": "明天",
+      "Arabic": "غداً"
+    },
+    {
+      "English": "Yesterday",
+      "Espanol": "Ayer",
+      "Romana": "Ieri",
+      "Magyar": "Tegnap",
+      "Portugues": "Ontem",
+      "日本人(Japanese)": "昨日",
+      "中文(chinese)": "昨天",
+      "Arabic": "أمس"
+    },
+    {
+      "English": "Approval Pending",
+      "Espanol": "Aprobación pendiente",
+      "Romana": "în curs de aprobare",
+      "Magyar": "Kérelem folyamatban",
+      "Portugues": "aprovação pendente",
+      "日本人(Japanese)": "承認待ち",
+      "中文(chinese)": "等待批准",
+      "Arabic": "في انتظار الموافقة"
+    },
+    {
+      "English": "No Items Found",
+      "Espanol": "No se encontraron artículos",
+      "Romana": "Nu au fost gasite articolele",
+      "Magyar": "Nincs találat",
+      "Portugues": "Nenhum item encontrado",
+      "日本人(Japanese)": "項目は見つかりませんでした",
+      "中文(chinese)": "未找到任何项目",
+      "Arabic": "لم يتم العثور على العناصر"
+    },
+    {
+      "English": "Cancel Booking",
+      "Espanol": "Cancelar reserva",
+      "Romana": "Anulați rezervarea",
+      "Magyar": "Foglalás lemondása",
+      "Portugues": "Cancelar reserva",
+      "日本人(Japanese)": "予約をキャンセルする",
+      "中文(chinese)": "取消预订",
+      "Arabic": "إلغاء الحجز"
+    },
+    {
+      "English": "Extend Booking",
+      "Espanol": "Ampliar reserva",
+      "Romana": "Extinde rezervarea",
+      "Magyar": "Foglalás meghosszabbítása",
+      "Portugues": "Estender reserva",
+      "日本人(Japanese)": "予約の延長",
+      "中文(chinese)": "延长预订",
+      "Arabic": "تمديد الحجز"
+    },
+    {
+      "English": "Check Out",
+      "Espanol": "Verificar",
+      "Romana": "Verifică",
+      "Magyar": "Kijelentkezés",
+      "Portugues": "Confira",
+      "日本人(Japanese)": "チェックアウト",
+      "中文(chinese)": "查看",
+      "Arabic": "الدفع"
+    },
+    {
+      "English": "Re-Book",
+      "Espanol": "Volver a reservar",
+      "Romana": "Re-rezervă",
+      "Magyar": "Re-Book",
+      "Portugues": "Remarcar",
+      "日本人(Japanese)": "再予約",
+      "中文(chinese)": "重新预订",
+      "Arabic": "إعادة الحجز"
+    },
+    {
+      "English": "Check In",
+      "Espanol": "Registrarse",
+      "Romana": "Check-in",
+      "Magyar": "Becsekkolás",
+      "Portugues": "Check-in",
+      "日本人(Japanese)": "チェックイン",
+      "中文(chinese)": "报到",
+      "Arabic": "تحقق في"
+    },
+    {
+      "English": "Cancel All Recurring Booking",
+      "Espanol": "Cancelar todas las reservas recurrentes",
+      "Romana": "Anulați toate rezervările recurente",
+      "Magyar": "Törölje az összes ismétlődő foglalást",
+      "Portugues": "Cancelar todas as reservas recorrentes",
+      "日本人(Japanese)": "定期的な予約をすべてキャンセルする",
+      "中文(chinese)": "取消所有定期预订",
+      "Arabic": "إلغاء كافة الحجوزات المتكررة"
+    },
+    {
+      "English": "Search by guest name",
+      "Espanol": "Buscar por nombre de invitado",
+      "Romana": "Căutați după numele invitatului",
+      "Magyar": "Keresés vendégnév alapján",
+      "Portugues": "Pesquise pelo nome do convidado",
+      "日本人(Japanese)": "ゲスト名で検索",
+      "中文(chinese)": "按客人姓名搜索",
+      "Arabic": "البحث حسب اسم الضيف"
+    },
+    {
+      "English": "Repeat Weekly",
+      "Espanol": "Repetir semanalmente",
+      "Romana": "Repetați săptămânal",
+      "Magyar": "Ismételje meg hetente",
+      "Portugues": "Repita semanalmente",
+      "日本人(Japanese)": "毎週繰り返す",
+      "中文(chinese)": "每周重复",
+      "Arabic": "كرر أسبوعيا"
+    },
+    {
+      "English": "select slot",
+      "Espanol": "seleccionar ranura",
+      "Romana": "selectați slotul",
+      "Magyar": "válasszon nyílást",
+      "Portugues": "selecione o slot",
+      "日本人(Japanese)": "スロットを選択",
+      "中文(chinese)": "选择插槽",
+      "Arabic": "حدد فتحة"
+    },
+    {
+      "English": "Member Removed Successfully",
+      "Espanol": "Miembro eliminado exitosamente",
+      "Romana": "Membru eliminat cu succes",
+      "Magyar": "Tag sikeresen eltávolítva",
+      "Portugues": "Membro removido com sucesso",
+      "日本人(Japanese)": "メンバーが正常に削除されました",
+      "中文(chinese)": "会员删除成功",
+      "Arabic": "تمت إزالة العضو بنجاح"
+    },
+    {
+      "English": "Start time should be in future",
+      "Espanol": "La hora de inicio debe ser en el futuro.",
+      "Romana": "Ora de începere ar trebui să fie în viitor",
+      "Magyar": "A kezdési időpontnak a jövőben kell lennie",
+      "Portugues": "O horário de início deve ser no futuro",
+      "日本人(Japanese)": "開始時刻は将来の時刻にする必要があります",
+      "中文(chinese)": "开始时间应该是将来的时间",
+      "Arabic": "يجب أن يكون وقت البدء في المستقبل"
+    },
+    {
+      "English": "End time should be greater than start time",
+      "Espanol": "La hora de finalización debe ser mayor que la hora de inicio.",
+      "Romana": "Ora de încheiere ar trebui să fie mai mare decât ora de început",
+      "Magyar": "A befejezési időpontnak nagyobbnak kell lennie, mint a kezdési időpont",
+      "Portugues": "O horário de término deve ser maior que o horário de início",
+      "日本人(Japanese)": "終了時間は開始時間より大きくする必要があります",
+      "中文(chinese)": "结束时间应大于开始时间",
+      "Arabic": "يجب أن يكون وقت الانتهاء أكبر من وقت البدء"
+    },
+    {
+      "English": "Fetching Resources",
+      "Espanol": "Obteniendo recursos",
+      "Romana": "Preluarea resurselor",
+      "Magyar": "Erőforrások lekérése",
+      "Portugues": "Buscando recursos",
+      "日本人(Japanese)": "リソースの取得",
+      "中文(chinese)": "获取资源",
+      "Arabic": "جلب الموارد"
+    },
+    {
+      "English": "Map image not found",
+      "Espanol": "Imagen del mapa no encontrada",
+      "Romana": "Imaginea hărții nu a fost găsită",
+      "Magyar": "A térkép képe nem található",
+      "Portugues": "Imagem do mapa não encontrada",
+      "日本人(Japanese)": "地図画像が見つかりません",
+      "中文(chinese)": "找不到地图图像",
+      "Arabic": "لم يتم العثور على صورة الخريطة"
+    },
+    {
+      "English": "Follow the legend below and click on a desk on the map to create/update a booking",
+      "Espanol": "Siga la leyenda a continuación y haga clic en un escritorio en el mapa para crear/actualizar una reserva.",
+      "Romana": "Urmați legenda de mai jos și faceți clic pe un birou de pe hartă pentru a crea/actualiza o rezervare",
+      "Magyar": "Kövesse az alábbi jelmagyarázatot, és kattintson egy asztalra a térképen a foglalás létrehozásához/frissítéséhez",
+      "Portugues": "Siga a legenda abaixo e clique em uma mesa no mapa para criar/atualizar uma reserva",
+      "日本人(Japanese)": "以下の凡例に従って、地図上のデスクをクリックして予約を作成/更新します",
+      "中文(chinese)": "按照下面的图例操作，然后单击地图上的某个办公桌来创建/更新预订",
+      "Arabic": "اتبع وسيلة الإيضاح أدناه وانقر على أحد المكاتب الموجودة على الخريطة لإنشاء/تحديث الحجز"
+    },
+    {
+      "English": "Fetching venues",
+      "Espanol": "Buscando lugares",
+      "Romana": "Preluare locuri",
+      "Magyar": "Helyszínek lekérése",
+      "Portugues": "Buscando locais",
+      "日本人(Japanese)": "会場の取得",
+      "中文(chinese)": "获取场地",
+      "Arabic": "جلب الأماكن"
+    },
+    {
+      "English": "Work Preference Updated Successfully",
+      "Espanol": "Preferencia de trabajo actualizada correctamente",
+      "Romana": "Preferința de lucru a fost actualizată cu succes",
+      "Magyar": "Munkabeállítás sikeresen frissítve",
+      "Portugues": "Preferência de trabalho atualizada com sucesso",
+      "日本人(Japanese)": "作業設定が正常に更新されました",
+      "中文(chinese)": "工作偏好更新成功",
+      "Arabic": "تم تحديث تفضيلات العمل بنجاح"
+    },
+    {
+      "English": "Failed to Update Work Preference",
+      "Espanol": "No se pudo actualizar la preferencia de trabajo",
+      "Romana": "Nu s-a putut actualiza Preferința de lucru",
+      "Magyar": "Nem sikerült frissíteni a munkabeállítást",
+      "Portugues": "Falha ao atualizar a preferência de trabalho",
+      "日本人(Japanese)": "作業設定の更新に失敗しました",
+      "中文(chinese)": "无法更新工作偏好",
+      "Arabic": "فشل في تحديث تفضيلات العمل"
+    },
+    {
+      "English": "Select Status",
+      "Espanol": "Seleccionar estado",
+      "Romana": "Selectați Stare",
+      "Magyar": "Válassza az Állapot lehetőséget",
+      "Portugues": "Selecione o status",
+      "日本人(Japanese)": "ステータスの選択",
+      "中文(chinese)": "选择状态",
+      "Arabic": "حدد الحالة"
+    },
+    {
+      "English": "Not Working",
+      "Espanol": "No funciona",
+      "Romana": "Nu funcționează",
+      "Magyar": "Nem működik",
+      "Portugues": "Não está funcionando",
+      "日本人(Japanese)": "機能しない",
+      "中文(chinese)": "不工作",
+      "Arabic": "لا يعمل"
+    },
+    {
+      "English": "Work From Home",
+      "Espanol": "Trabajar desde casa",
+      "Romana": "Lucru de acasă",
+      "Magyar": "Otthonról dolgozni",
+      "Portugues": "Trabalho a partir de casa",
+      "日本人(Japanese)": "在宅勤務",
+      "中文(chinese)": "在家工作",
+      "Arabic": "العمل من المنزل"
+    },
+    {
+      "English": "In Office",
+      "Espanol": "En la oficina",
+      "Romana": "În birou",
+      "Magyar": "Az irodában",
+      "Portugues": "No escritório",
+      "日本人(Japanese)": "会社で",
+      "中文(chinese)": "在办公室",
+      "Arabic": "في المكتب"
+    },
+    {
+      "English": "Scan the Veris QR code in front of the Desk or Room to Check-in",
+      "Espanol": "Escanee el código QR de Veris frente al escritorio o la habitación para realizar el check-in",
+      "Romana": "Scanați codul QR Veris în fața biroului sau a camerei pentru a face check-in",
+      "Magyar": "A bejelentkezéshez olvassa be a Veris QR-kódot az íróasztal vagy a szoba előtt",
+      "Portugues": "Digitalize o código QR da Veris em frente ao balcão ou sala para fazer o check-in",
+      "日本人(Japanese)": "デスクまたは部屋の前で Veris QR コードをスキャンしてチェックインします",
+      "中文(chinese)": "扫描服务台或房间前的 Veris 二维码即可办理入住",
+      "Arabic": "امسح رمز Veris QR ضوئيًا أمام المكتب أو الغرفة لتسجيل الوصول"
+    },
+    {
+      "English": "Not your organization",
+      "Espanol": "No es tu organización",
+      "Romana": "Nu organizația ta",
+      "Magyar": "Nem a te szervezeted",
+      "Portugues": "Não é sua organização",
+      "日本人(Japanese)": "あなたの組織ではありません",
+      "中文(chinese)": "不是您的组织",
+      "Arabic": "ليست مؤسستك"
+    },
+    {
+      "English": "Enter your contact",
+      "Espanol": "Introduce tu contacto",
+      "Romana": "Introduceți persoana de contact",
+      "Magyar": "Adja meg elérhetőségét",
+      "Portugues": "Digite seu contato",
+      "日本人(Japanese)": "連絡先を入力してください",
+      "中文(chinese)": "输入您的联系方式",
+      "Arabic": "أدخل جهة الاتصال الخاصة بك"
+    },
+    {
+      "English": "Enter Valid Contact",
+      "Espanol": "Ingrese un contacto válido",
+      "Romana": "Introduceți un contact valid",
+      "Magyar": "Adja meg az érvényes névjegyet",
+      "Portugues": "Insira um contato válido",
+      "日本人(Japanese)": "有効な連絡先を入力してください",
+      "中文(chinese)": "输入有效联系方式",
+      "Arabic": "أدخل جهة اتصال صالحة"
+    },
+    {
+      "English": "Account blocked try again after",
+      "Espanol": "Cuenta bloqueada intenta nuevamente después",
+      "Romana": "Cont blocat, încercați din nou după",
+      "Magyar": "Fiók blokkolva próbálja újra ezután",
+      "Portugues": "Conta bloqueada, tente novamente depois",
+      "日本人(Japanese)": "アカウントがブロックされました 後でもう一度お試しください",
+      "中文(chinese)": "帐户被封锁后重试",
+      "Arabic": "تم حظر الحساب حاول مرة أخرى بعد ذلك"
+    },
+    {
+      "English": "single day booking is not possible because the minimum booking duartion is",
+      "Espanol": "No es posible reservar un solo día porque la duración mínima de la reserva es",
+      "Romana": "rezervarea pentru o singură zi nu este posibilă deoarece durata minimă a rezervării este",
+      "Magyar": "Egynapos foglalás nem lehetséges, mert a foglalás minimális időtartama az",
+      "Portugues": "a reserva de um único dia não é possível porque o período mínimo de reserva é",
+      "日本人(Japanese)": "最低予約期間が次のとおりであるため、当日​​の予約はできません。",
+      "中文(chinese)": "无法单日预订，因为最短预订时长为",
+      "Arabic": "الحجز ليوم واحد غير ممكن لأن الحد الأدنى لمدة الحجز هو"
+    },
+    {
+      "English": "minutes please try multiple day booking or contanct admin",
+      "Espanol": "minutos, intente reservar varios días o comuníquese con el administrador",
+      "Romana": "minute, vă rugăm să încercați rezervarea de mai multe zile sau să contactați administratorul",
+      "Magyar": "perc, kérjük, próbálkozzon többnapos foglalással, vagy lépjen kapcsolatba az adminisztrátorral",
+      "Portugues": "minutos, tente reservar vários dias ou entre em contato com o administrador",
+      "日本人(Japanese)": "複数日の予約を試すか、管理者に連絡してください",
+      "中文(chinese)": "分钟请尝试多日预订或联系管理员",
+      "Arabic": "دقائق يرجى محاولة الحجز لعدة أيام أو الاتصال بالمسؤول"
+    },
+    {
+      "English": "Booking Created Successfully",
+      "Espanol": "Reserva creada con éxito",
+      "Romana": "Rezervarea a fost creată cu succes",
+      "Magyar": "A foglalás sikeresen megtörtént",
+      "Portugues": "Reserva criada com sucesso",
+      "日本人(Japanese)": "予約が正常に作成されました",
+      "中文(chinese)": "预订创建成功",
+      "Arabic": "تم إنشاء الحجز بنجاح"
+    },
+    {
+      "English": "Booking Already Exists from",
+      "Espanol": "La reserva ya existe desde",
+      "Romana": "Rezervarea există deja de la",
+      "Magyar": "Foglalás már létezik",
+      "Portugues": "A reserva já existe de",
+      "日本人(Japanese)": "からの予約はすでに存在します",
+      "中文(chinese)": "预订已存在于",
+      "Arabic": "الحجز موجود بالفعل من"
+    },
+    {
+      "English": "to",
+      "Espanol": "a",
+      "Romana": "la",
+      "Magyar": "nak nek",
+      "Portugues": "para",
+      "日本人(Japanese)": "に",
+      "中文(chinese)": "到",
+      "Arabic": "ل"
+    },
+    {
+      "English": "Something went wrong",
+      "Espanol": "Algo salió mal",
+      "Romana": "Ceva n-a mers bine",
+      "Magyar": "Valami elromlott",
+      "Portugues": "Algo deu errado",
+      "日本人(Japanese)": "何か問題が発生しました",
+      "中文(chinese)": "出了些问题",
+      "Arabic": "هناك خطأ ما"
+    },
+    {
+      "English": "Host Already Added",
+      "Espanol": "Anfitrión ya agregado",
+      "Romana": "Gazda a fost deja adăugată",
+      "Magyar": "A házigazda már hozzáadva",
+      "Portugues": "Host já adicionado",
+      "日本人(Japanese)": "ホストはすでに追加されています",
+      "中文(chinese)": "主机已添加",
+      "Arabic": "تمت إضافة المضيف بالفعل"
+    },
+    {
+      "English": "Member Added Successfully",
+      "Espanol": "Miembro agregado exitosamente",
+      "Romana": "Membru adăugat cu succes",
+      "Magyar": "Tag sikeresen hozzáadva",
+      "Portugues": "Membro adicionado com sucesso",
+      "日本人(Japanese)": "メンバーが正常に追加されました",
+      "中文(chinese)": "会员添加成功",
+      "Arabic": "تمت إضافة العضو بنجاح"
+    },
+    {
+      "English": "Work Status Updated Successfully",
+      "Espanol": "Estado del trabajo actualizado exitosamente",
+      "Romana": "Starea lucrării a fost actualizată cu succes",
+      "Magyar": "Munkaállapot sikeresen frissítve",
+      "Portugues": "Status de trabalho atualizado com sucesso",
+      "日本人(Japanese)": "作業ステータスが正常に更新されました",
+      "中文(chinese)": "工作状态更新成功",
+      "Arabic": "تم تحديث حالة العمل بنجاح"
+    },
+    {
+      "English": "Failed to update work Preference",
+      "Espanol": "No se pudo actualizar la preferencia de trabajo",
+      "Romana": "Nu s-a putut actualiza Preferința de lucru",
+      "Magyar": "Nem sikerült frissíteni a munkahelyi beállításokat",
+      "Portugues": "Falha ao atualizar a preferência de trabalho",
+      "日本人(Japanese)": "作業設定の更新に失敗しました",
+      "中文(chinese)": "无法更新工作偏好",
+      "Arabic": "فشل في تحديث تفضيلات العمل"
+    },
+    {
+      "English": "Maximum Occupancy for the department has reached. Please contact admin for further details.",
+      "Espanol": "Se ha alcanzado la ocupación máxima del departamento. Comuníquese con el administrador para obtener más detalles.",
+      "Romana": "Capacitatea maximă pentru departament a fost atinsă. Vă rugăm să contactați administratorul pentru mai multe detalii.",
+      "Magyar": "Elérte az osztály maximális kihasználtságát. További részletekért forduljon adminisztrátorhoz.",
+      "Portugues": "A ocupação máxima do departamento foi atingida. Entre em contato com o administrador para obter mais detalhes.",
+      "日本人(Japanese)": "部門の最大占有人数に達しました。詳細については管理者にお問い合わせください。",
+      "中文(chinese)": "该部门的最大入住人数已达到。请联系管理员了解更多详情。",
+      "Arabic": "تم الوصول إلى الحد الأقصى للإشغال في القسم. يرجى الاتصال بالمسؤول لمزيد من التفاصيل."
+    },
+    {
+      "English": "Maximum Occupancy for the Venue has reached. Please contact admin for further details.",
+      "Espanol": "Se ha alcanzado la ocupación máxima del recinto. Comuníquese con el administrador para obtener más detalles.",
+      "Romana": "Capacitatea maximă a locației a atins. Vă rugăm să contactați administratorul pentru mai multe detalii.",
+      "Magyar": "Elérte a helyszín maximális kihasználtságát. További részletekért forduljon adminisztrátorhoz.",
+      "Portugues": "A ocupação máxima do local foi atingida. Entre em contato com o administrador para obter mais detalhes.",
+      "日本人(Japanese)": "会場の最大収容人数に達しました。詳細については管理者にお問い合わせください。",
+      "中文(chinese)": "场地已达到最大入住人数。请联系管理员了解更多详情。",
+      "Arabic": "تم الوصول إلى الحد الأقصى للإشغال في المكان. يرجى الاتصال بالمسؤول لمزيد من التفاصيل."
+    },
+    {
+      "English": "This group has not configured. Please contact admin for further details.",
+      "Espanol": "Este grupo no se ha configurado. Comuníquese con el administrador para obtener más detalles.",
+      "Romana": "Acest grup nu a fost configurat. Vă rugăm să contactați administratorul pentru mai multe detalii.",
+      "Magyar": "Ez a csoport nincs konfigurálva. További részletekért forduljon adminisztrátorhoz.",
+      "Portugues": "Este grupo não foi configurado. Entre em contato com o administrador para obter mais detalhes.",
+      "日本人(Japanese)": "このグループは設定されていません。詳細については管理者にお問い合わせください。",
+      "中文(chinese)": "该组尚未配置。请联系管理员了解更多详情。",
+      "Arabic": "لم يتم تكوين هذه المجموعة. يرجى الاتصال بالمسؤول لمزيد من التفاصيل."
+    },
+    {
+      "English": "Booking Extended Successfully",
+      "Espanol": "Reserva ampliada con éxito",
+      "Romana": "Rezervarea a fost extinsă cu succes",
+      "Magyar": "A meghosszabbított foglalás sikeresen meghosszabbítva",
+      "Portugues": "Reserva prorrogada com sucesso",
+      "日本人(Japanese)": "予約は正常に延長されました",
+      "中文(chinese)": "预订延期成功",
+      "Arabic": "تم تمديد الحجز بنجاح"
+    },
+    {
+      "English": "Checked Out Successfully",
+      "Espanol": "Comprobado con éxito",
+      "Romana": "Verificat cu succes",
+      "Magyar": "Sikeresen kijelentkezett",
+      "Portugues": "Verificado com sucesso",
+      "日本人(Japanese)": "正常にチェックアウトされました",
+      "中文(chinese)": "签出成功",
+      "Arabic": "تم السحب بنجاح"
+    },
+    {
+      "English": "Booking Cancelled Successfully",
+      "Espanol": "Reserva cancelada con éxito",
+      "Romana": "Rezervarea a fost anulată cu succes",
+      "Magyar": "A foglalás sikeresen törölve",
+      "Portugues": "Reserva cancelada com sucesso",
+      "日本人(Japanese)": "予約は正常にキャンセルされました",
+      "中文(chinese)": "预订成功取消",
+      "Arabic": "تم إلغاء الحجز بنجاح"
+    },
+    {
+      "English": "Checked In Successfully",
+      "Espanol": "Registrado exitosamente",
+      "Romana": "Înregistrat cu succes",
+      "Magyar": "Sikeresen bejelentkezett",
+      "Portugues": "Check-in efetuado com sucesso",
+      "日本人(Japanese)": "正常にチェックインされました",
+      "中文(chinese)": "签到成功",
+      "Arabic": "تم تسجيل الدخول بنجاح"
+    },
+    {
+      "English": "Cannot check in now.",
+      "Espanol": "No puedo registrarme ahora.",
+      "Romana": "Nu se poate face check-in acum.",
+      "Magyar": "Most nem lehet bejelentkezni.",
+      "Portugues": "Não é possível fazer check-in agora.",
+      "日本人(Japanese)": "現在チェックインできません。",
+      "中文(chinese)": "现在无法办理入住。",
+      "Arabic": "لا يمكن تسجيل الدخول الآن."
+    },
+    {
+      "English": "Cannot checkout before the booking start time.",
+      "Espanol": "No se puede realizar el pago antes de la hora de inicio de la reserva.",
+      "Romana": "Nu se poate face checkout înainte de ora de începere a rezervării.",
+      "Magyar": "A foglalás kezdete előtt nem lehet kijelentkezni.",
+      "Portugues": "Não é possível finalizar a compra antes do horário de início da reserva.",
+      "日本人(Japanese)": "予約開始時間前にチェックアウトすることはできません。",
+      "中文(chinese)": "无法在预订开始时间之前结帐。",
+      "Arabic": "لا يمكن الخروج قبل وقت بدء الحجز."
+    },
+    {
+      "English": "Single day",
+      "Espanol": "solo dia",
+      "Romana": "O singura zi",
+      "Magyar": "Egyetlen nap",
+      "Portugues": "Único dia",
+      "日本人(Japanese)": "1日",
+      "中文(chinese)": "单日",
+      "Arabic": "يوم واحد"
+    },
+    {
+      "English": "Multiple days",
+      "Espanol": "Varios días",
+      "Romana": "Mai multe zile",
+      "Magyar": "Több nap",
+      "Portugues": "Vários dias",
+      "日本人(Japanese)": "複数日",
+      "中文(chinese)": "多日",
+      "Arabic": "أيام متعددة"
+    },
+    {
+      "English": "Fetching Bookings",
+      "Espanol": "Obteniendo reservas",
+      "Romana": "Preluare rezervări",
+      "Magyar": "Foglalások lekérése",
+      "Portugues": "Buscando reservas",
+      "日本人(Japanese)": "予約の取得",
+      "中文(chinese)": "获取预订",
+      "Arabic": "جلب الحجوزات"
+    },
+    {
+      "English": "Fetching Your Bookings",
+      "Espanol": "Obteniendo sus reservas",
+      "Romana": "Preluarea rezervărilor dvs",
+      "Magyar": "Foglalások lekérése",
+      "Portugues": "Buscando suas reservas",
+      "日本人(Japanese)": "予約を取得する",
+      "中文(chinese)": "获取您的预订",
+      "Arabic": "جلب الحجوزات الخاصة بك"
+    },
+    {
+      "English": "In use",
+      "Espanol": "En uso",
+      "Romana": "In folosinta",
+      "Magyar": "Használatban",
+      "Portugues": "Em uso",
+      "日本人(Japanese)": "使用中で",
+      "中文(chinese)": "正在使用",
+      "Arabic": "في الاستخدام"
+    },
+    {
+      "English": "Approval Pending",
+      "Espanol": "Aprobación pendiente",
+      "Romana": "în curs de aprobare",
+      "Magyar": "Kérelem folyamatban",
+      "Portugues": "aprovação pendente",
+      "日本人(Japanese)": "承認待ち",
+      "中文(chinese)": "等待批准",
+      "Arabic": "في انتظار الموافقة"
+    },
+    {
+      "English": "Booked",
+      "Espanol": "Reservado",
+      "Romana": "Rezervat",
+      "Magyar": "Foglalt",
+      "Portugues": "Reservado",
+      "日本人(Japanese)": "予約済み",
+      "中文(chinese)": "已预订",
+      "Arabic": "حجز"
+    },
+    {
+      "English": "Expired",
+      "Espanol": "Venció",
+      "Romana": "Expirat",
+      "Magyar": "Lejárt",
+      "Portugues": "Expirado",
+      "日本人(Japanese)": "期限切れ",
+      "中文(chinese)": "已到期",
+      "Arabic": "منتهي الصلاحية"
+    },
+    {
+      "English": "Cancelled",
+      "Espanol": "Cancelado",
+      "Romana": "Anulat",
+      "Magyar": "Törölve",
+      "Portugues": "Cancelado",
+      "日本人(Japanese)": "キャンセル",
+      "中文(chinese)": "取消",
+      "Arabic": "ألغيت"
+    },
+    {
+      "English": "assigned",
+      "Espanol": "asignado",
+      "Romana": "atribuit",
+      "Magyar": "kijelölt",
+      "Portugues": "atribuído",
+      "日本人(Japanese)": "割り当てられた",
+      "中文(chinese)": "分配的",
+      "Arabic": "مُكَلَّف"
+    },
+    {
+      "English": "Please Login to continue",
+      "Espanol": "Por favor inicie sesión para continuar",
+      "Romana": "Vă rugăm să vă conectați pentru a continua",
+      "Magyar": "A folytatáshoz jelentkezzen be",
+      "Portugues": "Por favor faça o login para continuar",
+      "日本人(Japanese)": "続行するにはログインしてください",
+      "中文(chinese)": "请登录访问更多内容",
+      "Arabic": "الرجاء تسجيل الدخول للمتابعة"
+    },
+    {
+      "English": "OR",
+      "Espanol": "O",
+      "Romana": "SAU",
+      "Magyar": "VAGY",
+      "Portugues": "OU",
+      "日本人(Japanese)": "または",
+      "中文(chinese)": "或者",
+      "Arabic": "أو"
+    },
+    {
+      "English": "We will send you an OTP on your email",
+      "Espanol": "Le enviaremos una OTP a su correo electrónico",
+      "Romana": "Vă vom trimite un OTP pe e-mailul dvs",
+      "Magyar": "OTP-t küldünk az e-mail címére",
+      "Portugues": "Enviaremos um OTP em seu e-mail",
+      "日本人(Japanese)": "メールで OTP を送信します",
+      "中文(chinese)": "我们将通过您的电子邮件向您发送 OTP",
+      "Arabic": "سوف نرسل لك OTP على البريد الإلكتروني الخاص بك"
+    },
+    {
+      "English": "OTP Verification",
+      "Espanol": "Verificación OTP",
+      "Romana": "Verificare OTP",
+      "Magyar": "OTP igazolás",
+      "Portugues": "Verificação OTP",
+      "日本人(Japanese)": "OTP 検証",
+      "中文(chinese)": "一次性密码验证",
+      "Arabic": "التحقق من OTP"
+    },
+    {
+      "English": "Please enter",
+      "Espanol": "Por favor escribe",
+      "Romana": "Te rog intra",
+      "Magyar": "Kérlek lépj be",
+      "Portugues": "Por favor, insira",
+      "日本人(Japanese)": "入ってください",
+      "中文(chinese)": "请输入",
+      "Arabic": "تفضل"
+    },
+    {
+      "English": "sent to",
+      "Espanol": "enviado a",
+      "Romana": "trimis la",
+      "Magyar": "elküldve",
+      "Portugues": "enviado para",
+      "日本人(Japanese)": "に送信された",
+      "中文(chinese)": "发给",
+      "Arabic": "أرسلت إلى"
+    },
+    {
+      "English": "Too many invalid attempts, please request a new OTP",
+      "Espanol": "Demasiados intentos no válidos, solicite una nueva OTP",
+      "Romana": "Prea multe încercări nevalide, vă rugăm să solicitați un nou OTP",
+      "Magyar": "Túl sok érvénytelen próbálkozás, kérjen új OTP-t",
+      "Portugues": "Muitas tentativas inválidas. Solicite uma nova OTP",
+      "日本人(Japanese)": "無効な試行が多すぎます。新しい OTP をリクエストしてください",
+      "中文(chinese)": "无效尝试次数过多，请请求新的 OTP",
+      "Arabic": "هناك عدد كبير جدًا من المحاولات غير الصالحة، يرجى طلب كلمة المرور لمرة واحدة (OTP) جديدة"
+    },
+    {
+      "English": "Account blocked try again after",
+      "Espanol": "Cuenta bloqueada intenta nuevamente después",
+      "Romana": "Cont blocat, încercați din nou după",
+      "Magyar": "Fiók blokkolva próbálja újra ezután",
+      "Portugues": "Conta bloqueada, tente novamente depois",
+      "日本人(Japanese)": "アカウントがブロックされました 後でもう一度お試しください",
+      "中文(chinese)": "帐户被封锁后重试",
+      "Arabic": "تم حظر الحساب حاول مرة أخرى بعد ذلك"
+    },
+    {
+      "English": "Something Went Wrong Try Again !!",
+      "Espanol": "Algo salió mal, intenta de nuevo !!",
+      "Romana": "Ceva nu a mers prost Încercați din nou !!",
+      "Magyar": "Valami elromlott Próbáld újra!!",
+      "Portugues": "Algo deu errado, tente novamente!!",
+      "日本人(Japanese)": "問題が発生しました。もう一度試してください。",
+      "中文(chinese)": "出了问题再试一次！",
+      "Arabic": "حدث خطأ ما حاول مرة أخرى !!"
+    },
+    {
+      "English": "Open Email App to Get OTP",
+      "Espanol": "Abra la aplicación de correo electrónico para obtener OTP",
+      "Romana": "Deschideți aplicația de e-mail pentru a obține OTP",
+      "Magyar": "Nyissa meg az E-mail alkalmazást az OTP lekéréséhez",
+      "Portugues": "Abra o aplicativo de e-mail para obter OTP",
+      "日本人(Japanese)": "電子メール アプリを開いて OTP を取得する",
+      "中文(chinese)": "打开电子邮件应用程序以获取 OTP",
+      "Arabic": "افتح تطبيق البريد الإلكتروني للحصول على OTP"
+    },
+    {
+      "English": "Next",
+      "Espanol": "Próximo",
+      "Romana": "Următorul",
+      "Magyar": "Következő",
+      "Portugues": "Próximo",
+      "日本人(Japanese)": "次",
+      "中文(chinese)": "下一个",
+      "Arabic": "التالي"
+    },
+    {
+      "English": "Example of a domain",
+      "Espanol": "Ejemplo de un dominio",
+      "Romana": "Exemplu de domeniu",
+      "Magyar": "Példa egy domainre",
+      "Portugues": "Exemplo de um domínio",
+      "日本人(Japanese)": "ドメインの例",
+      "中文(chinese)": "域示例",
+      "Arabic": "مثال على المجال"
+    },
+    {
+      "English": "What is my domain?",
+      "Espanol": "¿Cuál es mi dominio?",
+      "Romana": "Care este domeniul meu?",
+      "Magyar": "Mi az én domainem?",
+      "Portugues": "Qual é o meu domínio?",
+      "日本人(Japanese)": "私のドメインとは何ですか?",
+      "中文(chinese)": "我的域名是什么？",
+      "Arabic": "ما هو المجال الخاص بي؟"
+    },
+    {
+      "English": "Not your email id?",
+      "Espanol": "¿No es tu ID de correo electrónico?",
+      "Romana": "Nu ID-ul tău de e-mail?",
+      "Magyar": "Nem az e-mail azonosítód?",
+      "Portugues": "Não é o seu ID de e-mail?",
+      "日本人(Japanese)": "メール ID ではありませんか?",
+      "中文(chinese)": "不是您的电子邮件 ID？",
+      "Arabic": "ليس معرف البريد الإلكتروني الخاص بك؟"
+    },
+    {
+      "English": "Please enter a valid work email",
+      "Espanol": "Por favor ingrese un correo electrónico de trabajo válido",
+      "Romana": "Vă rugăm să introduceți un e-mail de serviciu valid",
+      "Magyar": "Kérjük, adjon meg egy érvényes munkahelyi e-mail-címet",
+      "Portugues": "Insira um e-mail comercial válido",
+      "日本人(Japanese)": "有効な仕事用メールアドレスを入力してください",
+      "中文(chinese)": "请输入有效的工作电子邮件",
+      "Arabic": "الرجاء إدخال بريد إلكتروني صالح للعمل"
+    },
+    {
       "English": "Sign in to Veris",
       "Espanol": "Iniciar sesión en Veris",
-      "Romana": "Conectați -vă la Veris",
+      "Romana": "Conectați-vă la Veris",
       "Magyar": "Jelentkezzen be a Verisbe",
       "Portugues": "Faça login no Veris",
-      "日本人(Japanese)": "Verisにサインインします",
-      "中文(chinese)": "登录Veris"
+      "日本人(Japanese)": "ベリスにサインインする",
+      "中文(chinese)": "登录 Veris",
+      "Arabic": "تسجيل الدخول إلى فيريس"
     },
     {
       "English": "Enter your Veris subdomain",
-      "Espanol": "Ingrese su subdominio Veri",
+      "Espanol": "Ingrese su subdominio Veris",
       "Romana": "Introduceți subdomeniul dvs. Veris",
-      "Magyar": "Írja be a Veris aldomaint",
-      "Portugues": "Digite seu subdomínio Veris",
-      "日本人(Japanese)": "Verisサブドメインを入力します",
-      "中文(chinese)": "输入您的Veris子域"
+      "Magyar": "Adja meg Veris aldomainjét",
+      "Portugues": "Insira seu subdomínio Veris",
+      "日本人(Japanese)": "Veris サブドメインを入力してください",
+      "中文(chinese)": "输入您的 Veris 子域",
+      "Arabic": "أدخل نطاق Veris الفرعي الخاص بك"
     },
     {
       "English": "Subdomain was not found!",
-      "Espanol": "¡El subdominio no fue encontrado!",
+      "Espanol": "¡No se encontró el subdominio!",
       "Romana": "Subdomeniul nu a fost găsit!",
-      "Magyar": "Az aldomaint nem találták meg!",
+      "Magyar": "Az aldomain nem található!",
       "Portugues": "O subdomínio não foi encontrado!",
-      "日本人(Japanese)": "サブドメインは見つかりませんでした！",
-      "中文(chinese)": "找不到子域！"
+      "日本人(Japanese)": "サブドメインが見つかりませんでした!",
+      "中文(chinese)": "未找到子域！",
+      "Arabic": "لم يتم العثور على النطاق الفرعي!"
     },
     {
       "English": "What is my Veris subdomain?",
       "Espanol": "¿Cuál es mi subdominio Veris?",
       "Romana": "Care este subdomeniul meu Veris?",
-      "Magyar": "Mi az én veris aldomainem?",
+      "Magyar": "Mi a Veris aldomain?",
       "Portugues": "Qual é o meu subdomínio Veris?",
-      "日本人(Japanese)": "私のVerisサブドメインは何ですか？",
-      "中文(chinese)": "我的Veris子域是什么？"
+      "日本人(Japanese)": "私の Veris サブドメインは何ですか?",
+      "中文(chinese)": "我的 Veris 子域是什么？",
+      "Arabic": "ما هو نطاق Veris الفرعي الخاص بي؟"
     },
     {
       "English": "Subdomain",
@@ -43,7 +1837,8 @@
       "Magyar": "Aldomain",
       "Portugues": "Subdomínio",
       "日本人(Japanese)": "サブドメイン",
-      "中文(chinese)": "子域"
+      "中文(chinese)": "子域",
+      "Arabic": "النطاق الفرعي"
     },
     {
       "English": "Email or phone",
@@ -52,7 +1847,8 @@
       "Magyar": "Mailben vagy telefonon",
       "Portugues": "Email ou telefone",
       "日本人(Japanese)": "メールまたは電話",
-      "中文(chinese)": "邮件或者电话"
+      "中文(chinese)": "邮件或者电话",
+      "Arabic": "بريد الكتروني او هاتف"
     },
     {
       "English": "Phone",
@@ -61,43 +1857,1676 @@
       "Magyar": "Telefon",
       "Portugues": "Telefone",
       "日本人(Japanese)": "電話",
-      "中文(chinese)": "电话"
+      "中文(chinese)": "电话",
+      "Arabic": "هاتف"
     },
     {
       "English": "Email",
       "Espanol": "Correo electrónico",
       "Romana": "E-mail",
       "Magyar": "Email",
-      "Portugues": "O email",
+      "Portugues": "E-mail",
       "日本人(Japanese)": "Eメール",
-      "中文(chinese)": "电子邮件"
+      "中文(chinese)": "电子邮件",
+      "Arabic": "بريد إلكتروني"
     },
     {
       "English": "We will send you an OTP on this contact",
-      "Espanol": "Le enviaremos un OTP en este contacto",
-      "Romana": "Vă vom trimite un OTP pe acest contact",
-      "Magyar": "Küldünk neked egy OTP -t erre a kapcsolattartóra",
-      "Portugues": "Enviaremos a você um OTP neste contato",
-      "日本人(Japanese)": "この連絡先にOTPをお送りします",
-      "中文(chinese)": "我们将向您发送此联系人的OTP"
+      "Espanol": "Le enviaremos una OTP en este contacto.",
+      "Romana": "Vă vom trimite un OTP pentru acest contact",
+      "Magyar": "OTP-t küldünk Önnek erről a kapcsolatról",
+      "Portugues": "Enviaremos a você uma OTP neste contato",
+      "日本人(Japanese)": "この連絡先に OTP を送信します",
+      "中文(chinese)": "我们将向您发送有关此联系人的 OTP",
+      "Arabic": "سوف نرسل لك OTP على جهة الاتصال هذه"
     },
     {
       "English": "Verify your contact",
-      "Espanol": "Verifique su contacto",
-      "Romana": "Verificați -vă contactul",
-      "Magyar": "Ellenőrizze a kapcsolattartását",
+      "Espanol": "Verifica tu contacto",
+      "Romana": "Verificați-vă contactul",
+      "Magyar": "Igazolja kapcsolattartóját",
       "Portugues": "Verifique seu contato",
       "日本人(Japanese)": "連絡先を確認してください",
-      "中文(chinese)": "验证您的联系"
+      "中文(chinese)": "验证您的联系方式",
+      "Arabic": "التحقق من جهة الاتصال الخاصة بك"
     },
     {
       "English": "No Visitors",
-      "Espanol": "No hay visitantes",
+      "Espanol": "Sin visitantes",
       "Romana": "Fără vizitatori",
-      "Magyar": "Nincs látogató",
-      "Portugues": "Sem visitantes",
-      "日本人(Japanese)": "訪問者はいません",
-      "中文(chinese)": "没有访客"
+      "Magyar": "Nincsenek látogatók",
+      "Portugues": "Nenhum visitante",
+      "日本人(Japanese)": "訪問者なし",
+      "中文(chinese)": "没有访客",
+      "Arabic": "لا يوجد زوار"
+    },
+    {
+      "English": "Scan this QR at Veris Terminal for easy authentication",
+      "Espanol": "Escanee este QR en Veris Terminal para una fácil autenticación",
+      "Romana": "Scanați acest QR la Veris Terminal pentru o autentificare ușoară",
+      "Magyar": "Olvassa be ezt a QR-kódot a Veris terminálon az egyszerű hitelesítés érdekében",
+      "Portugues": "Digitalize este QR no Veris Terminal para facilitar a autenticação",
+      "日本人(Japanese)": "Veris ターミナルでこの QR をスキャンすると簡単に認証できます",
+      "中文(chinese)": "在 Veris 终端扫描此二维码以轻松进行身份验证",
+      "Arabic": "امسح رمز QR هذا ضوئيًا في Veris Terminal لسهولة المصادقة"
+    },
+    {
+      "English": "will refresh in",
+      "Espanol": "se actualizará en",
+      "Romana": "se va reîmprospăta în",
+      "Magyar": "frissülni fog",
+      "Portugues": "irá atualizar em",
+      "日本人(Japanese)": "でリフレッシュします",
+      "中文(chinese)": "将刷新在",
+      "Arabic": "سيتم تحديث في"
+    },
+    {
+      "English": "seconds",
+      "Espanol": "segundos",
+      "Romana": "secunde",
+      "Magyar": "másodpercig",
+      "Portugues": "segundos",
+      "日本人(Japanese)": "秒",
+      "中文(chinese)": "秒",
+      "Arabic": "ثواني"
+    },
+    {
+      "English": "Scan QR code for touchless Check in",
+      "Espanol": "Escanea el código QR para realizar el check-in sin contacto",
+      "Romana": "Scanați codul QR pentru check-in fără atingere",
+      "Magyar": "Olvassa be a QR-kódot az érintésmentes bejelentkezéshez",
+      "Portugues": "Digitalize o código QR para check-in sem toque",
+      "日本人(Japanese)": "QRコードをスキャンしてタッチレスチェックイン",
+      "中文(chinese)": "扫描二维码进行非接触式入住",
+      "Arabic": "امسح رمز الاستجابة السريعة ضوئيًا لتسجيل الوصول بدون لمس"
+    },
+    {
+      "English": "Scan the Veris QR code for touchless Check-in",
+      "Espanol": "Escanee el código QR de Veris para realizar el check-in sin contacto",
+      "Romana": "Scanați codul QR Veris pentru check-in fără atingere",
+      "Magyar": "Olvassa be a Veris QR-kódot az érintés nélküli bejelentkezéshez",
+      "Portugues": "Digitalize o código QR da Veris para check-in sem toque",
+      "日本人(Japanese)": "Veris QR コードをスキャンしてタッチレス チェックインを行ってください",
+      "中文(chinese)": "扫描 Veris 二维码进行非接触式登机",
+      "Arabic": "قم بمسح رمز Veris QR ضوئيًا لتسجيل الوصول بدون لمس"
+    },
+    {
+      "English": "Subdomain field can't be empty",
+      "Espanol": "El campo de subdominio no puede estar vacío",
+      "Romana": "Câmpul subdomeniului nu poate fi gol",
+      "Magyar": "Az aldomain mező nem lehet üres",
+      "Portugues": "O campo subdomínio não pode ficar vazio",
+      "日本人(Japanese)": "サブドメインフィールドを空にすることはできません",
+      "中文(chinese)": "子域名字段不能为空",
+      "Arabic": "لا يمكن أن يكون حقل النطاق الفرعي فارغًا"
+    },
+    {
+      "English": "Please enter a valid contact",
+      "Espanol": "Por favor introduce un contacto válido",
+      "Romana": "Vă rugăm să introduceți o persoană de contact validă",
+      "Magyar": "Kérjük, adjon meg egy érvényes kapcsolattartót",
+      "Portugues": "Por favor insira um contato válido",
+      "日本人(Japanese)": "有効な連絡先を入力してください",
+      "中文(chinese)": "请输入有效的联系方式",
+      "Arabic": "الرجاء إدخال جهة اتصال صالحة"
+    },
+    {
+      "English": "Please enter a valid work email",
+      "Espanol": "Por favor ingrese un correo electrónico de trabajo válido",
+      "Romana": "Vă rugăm să introduceți un e-mail de serviciu valid",
+      "Magyar": "Kérjük, adjon meg egy érvényes munkahelyi e-mail-címet",
+      "Portugues": "Insira um e-mail comercial válido",
+      "日本人(Japanese)": "有効な仕事用メールアドレスを入力してください",
+      "中文(chinese)": "请输入有效的工作电子邮件",
+      "Arabic": "الرجاء إدخال بريد إلكتروني صالح للعمل"
+    },
+    {
+      "English": "Please enter a valid phone",
+      "Espanol": "por favor ingrese un teléfono válido",
+      "Romana": "Vă rugăm să introduceți un telefon valid",
+      "Magyar": "Kérjük, adjon meg egy érvényes telefonszámot",
+      "Portugues": "Por favor insira um telefone válido",
+      "日本人(Japanese)": "有効な電話番号を入力してください",
+      "中文(chinese)": "请输入有效电话号码",
+      "Arabic": "الرجاء إدخال الهاتف صالح"
+    },
+    {
+      "English": "Please enter a valid work email",
+      "Espanol": "Por favor ingrese un correo electrónico de trabajo válido",
+      "Romana": "Vă rugăm să introduceți un e-mail de serviciu valid",
+      "Magyar": "Kérjük, adjon meg egy érvényes munkahelyi e-mail-címet",
+      "Portugues": "Insira um e-mail comercial válido",
+      "日本人(Japanese)": "有効な仕事用メールアドレスを入力してください",
+      "中文(chinese)": "请输入有效的工作电子邮件",
+      "Arabic": "الرجاء إدخال بريد إلكتروني صالح للعمل"
+    },
+    {
+      "English": "Enter OTP sent to",
+      "Espanol": "Ingrese la OTP enviada a",
+      "Romana": "Introduceți OTP trimis către",
+      "Magyar": "Írja be az OTP-t küldve ide",
+      "Portugues": "Digite OTP enviado para",
+      "日本人(Japanese)": "送信先の OTP を入力してください",
+      "中文(chinese)": "输入 OTP 发送至",
+      "Arabic": "أدخل كلمة مرور OTP المرسلة إلى"
+    },
+    {
+      "English": "OTP sent successfully",
+      "Espanol": "OTP enviada correctamente",
+      "Romana": "OTP trimis cu succes",
+      "Magyar": "OTP sikeresen elküldve",
+      "Portugues": "OTP enviado com sucesso",
+      "日本人(Japanese)": "OTP が正常に送信されました",
+      "中文(chinese)": "OTP 发送成功",
+      "Arabic": "تم إرسال كلمة المرور لمرة واحدة (OTP) بنجاح"
+    },
+    {
+      "English": "You do not seem to have access, please contact your administrator",
+      "Espanol": "Parece que no tienes acceso, por favor contacta a tu administrador",
+      "Romana": "Se pare că nu aveți acces, vă rugăm să contactați administratorul",
+      "Magyar": "Úgy tűnik, nincs hozzáférése, forduljon a rendszergazdához",
+      "Portugues": "Parece que você não tem acesso. Entre em contato com seu administrador",
+      "日本人(Japanese)": "アクセス権がないようです。管理者に連絡してください",
+      "中文(chinese)": "您似乎没有访问权限，请联系您的管理员",
+      "Arabic": "يبدو أنه لا يمكنك الوصول، يرجى الاتصال بالمسؤول"
+    },
+    {
+      "English": "Your contact is not added as member in this organization",
+      "Espanol": "Su contacto no está agregado como miembro en esta organización",
+      "Romana": "Contactul dvs. nu este adăugat ca membru în această organizație",
+      "Magyar": "Kapcsolattartója nincs tagként hozzáadva ehhez a szervezethez",
+      "Portugues": "Seu contato não foi adicionado como membro desta organização",
+      "日本人(Japanese)": "あなたの連絡先はこの組織のメンバーとして追加されていません",
+      "中文(chinese)": "您的联系人未添加为该组织的成员",
+      "Arabic": "لم تتم إضافة جهة الاتصال الخاصة بك كعضو في هذه المؤسسة"
+    },
+    {
+      "English": "Visited today",
+      "Espanol": "Visitado hoy",
+      "Romana": "Vizitat azi",
+      "Magyar": "Ma látogatott el",
+      "Portugues": "Visitado hoje",
+      "日本人(Japanese)": "今日訪問しました",
+      "中文(chinese)": "今天访问过",
+      "Arabic": "زار اليوم"
+    },
+    {
+      "English": "Check Out",
+      "Espanol": "Verificar",
+      "Romana": "Verifică",
+      "Magyar": "Kijelentkezés",
+      "Portugues": "Confira",
+      "日本人(Japanese)": "チェックアウト",
+      "中文(chinese)": "查看",
+      "Arabic": "الدفع"
+    },
+    {
+      "English": "Check In",
+      "Espanol": "Registrarse",
+      "Romana": "Check-in",
+      "Magyar": "Becsekkolás",
+      "Portugues": "Check-in",
+      "日本人(Japanese)": "チェックイン",
+      "中文(chinese)": "报到",
+      "Arabic": "تحقق في"
+    },
+    {
+      "English": "visited you at",
+      "Espanol": "te visité en",
+      "Romana": "te-am vizitat la",
+      "Magyar": "meglátogatta Önt a",
+      "Portugues": "visitou você em",
+      "日本人(Japanese)": "に訪問しました",
+      "中文(chinese)": "访问过您于",
+      "Arabic": "زرتك في"
+    },
+    {
+      "English": "You visited",
+      "Espanol": "Tu visitaste",
+      "Romana": "Ai vizitat",
+      "Magyar": "Meglátogattad",
+      "Portugues": "Você visitou",
+      "日本人(Japanese)": "あなたが訪問した",
+      "中文(chinese)": "您访问过",
+      "Arabic": "قمت بزيارتها"
+    },
+    {
+      "English": "Contact Veris support",
+      "Espanol": "Póngase en contacto con el soporte de Veris",
+      "Romana": "Contactați asistența Veris",
+      "Magyar": "Lépjen kapcsolatba a Veris ügyfélszolgálatával",
+      "Portugues": "Entre em contato com o suporte da Veris",
+      "日本人(Japanese)": "Veris サポートに問い合わせる",
+      "中文(chinese)": "联系 Veris 支持",
+      "Arabic": "اتصل بدعم Veris"
+    },
+    {
+      "English": "Version",
+      "Espanol": "Versión",
+      "Romana": "Versiune",
+      "Magyar": "Változat",
+      "Portugues": "Versão",
+      "日本人(Japanese)": "バージョン",
+      "中文(chinese)": "版本",
+      "Arabic": "إصدار"
+    },
+    {
+      "English": "Visitors",
+      "Espanol": "Visitantes",
+      "Romana": "Vizitatori",
+      "Magyar": "Látogatók",
+      "Portugues": "Visitantes",
+      "日本人(Japanese)": "訪問者",
+      "中文(chinese)": "访客",
+      "Arabic": "الزائرين"
+    },
+    {
+      "English": "Select Venue",
+      "Espanol": "Seleccionar lugar",
+      "Romana": "Selectați Locația",
+      "Magyar": "Válassza a Helyszínt",
+      "Portugues": "Selecione o local",
+      "日本人(Japanese)": "会場を選択してください",
+      "中文(chinese)": "选择场地",
+      "Arabic": "اختر المكان"
+    },
+    {
+      "English": "Fetching visitors .....",
+      "Espanol": "Recibiendo visitantes.....",
+      "Romana": "Preluare vizitatori .....",
+      "Magyar": "Látogatók lekérése.....",
+      "Portugues": "Buscando visitantes.....",
+      "日本人(Japanese)": "訪問者を呼び込む……",
+      "中文(chinese)": "吸引访客......",
+      "Arabic": "جلب الزوار ....."
+    },
+    {
+      "English": "No visitors found",
+      "Espanol": "No se encontraron visitantes",
+      "Romana": "Nu s-au găsit vizitatori",
+      "Magyar": "Nem találhatók látogatók",
+      "Portugues": "Nenhum visitante encontrado",
+      "日本人(Japanese)": "訪問者が見つかりませんでした",
+      "中文(chinese)": "没有找到访客",
+      "Arabic": "لم يتم العثور على زوار"
+    },
+    {
+      "English": "Invite cancelled successfully",
+      "Espanol": "Invitación cancelada exitosamente",
+      "Romana": "Invitația a fost anulată cu succes",
+      "Magyar": "Meghívás sikeresen visszavonva",
+      "Portugues": "Convite cancelado com sucesso",
+      "日本人(Japanese)": "招待が正常にキャンセルされました",
+      "中文(chinese)": "邀请已成功取消",
+      "Arabic": "تم إلغاء الدعوة بنجاح"
+    },
+    {
+      "English": "Invite ended successfully",
+      "Espanol": "La invitación finalizó exitosamente",
+      "Romana": "Invitația s-a încheiat cu succes",
+      "Magyar": "A meghívás sikeresen véget ért",
+      "Portugues": "O convite foi finalizado com sucesso",
+      "日本人(Japanese)": "招待は正常に終了しました",
+      "中文(chinese)": "邀请成功结束",
+      "Arabic": "انتهت الدعوة بنجاح"
+    },
+    {
+      "English": "Invite rescheduled successfully.",
+      "Espanol": "La invitación se reprogramó correctamente.",
+      "Romana": "Invitația a fost reprogramată.",
+      "Magyar": "A meghívó sikeresen átütemezve.",
+      "Portugues": "Convite reprogramado com sucesso.",
+      "日本人(Japanese)": "招待のスケジュールが正常に変更されました。",
+      "中文(chinese)": "邀请重新安排成功。",
+      "Arabic": "تمت إعادة جدولة الدعوة بنجاح."
+    },
+    {
+      "English": "Invite Extended SuccessFully",
+      "Espanol": "Invitar extendido con éxito",
+      "Romana": "Invitați extins cu succes complet",
+      "Magyar": "Invite Extended SuccessFully",
+      "Portugues": "Convite estendido com sucesso",
+      "日本人(Japanese)": "拡張成功への招待",
+      "中文(chinese)": "邀请延长成功完全",
+      "Arabic": "دعوة النجاح الموسع بالكامل"
+    },
+    {
+      "English": "Cancel",
+      "Espanol": "Cancelar",
+      "Romana": "Anulare",
+      "Magyar": "Megszünteti",
+      "Portugues": "Cancelar",
+      "日本人(Japanese)": "キャンセル",
+      "中文(chinese)": "取消",
+      "Arabic": "يلغي"
+    },
+    {
+      "English": "End",
+      "Espanol": "Fin",
+      "Romana": "Sfârşit",
+      "Magyar": "Vége",
+      "Portugues": "Fim",
+      "日本人(Japanese)": "終わり",
+      "中文(chinese)": "结尾",
+      "Arabic": "نهاية"
+    },
+    {
+      "English": "Venue",
+      "Espanol": "Evento",
+      "Romana": "Locul de desfășurare",
+      "Magyar": "Helyszín",
+      "Portugues": "Local",
+      "日本人(Japanese)": "会場",
+      "中文(chinese)": "场地",
+      "Arabic": "مكان"
+    },
+    {
+      "English": "Select Visitor Category",
+      "Espanol": "Seleccionar categoría de visitante",
+      "Romana": "Selectați Categoria de vizitator",
+      "Magyar": "Válassza a Látogató kategóriát",
+      "Portugues": "Selecione a categoria do visitante",
+      "日本人(Japanese)": "訪問者のカテゴリーを選択してください",
+      "中文(chinese)": "选择访客类别",
+      "Arabic": "اختر فئة الزائر"
+    },
+    {
+      "English": "Agenda",
+      "Espanol": "Agenda",
+      "Romana": "Agendă",
+      "Magyar": "Napirend",
+      "Portugues": "Agenda",
+      "日本人(Japanese)": "議題",
+      "中文(chinese)": "议程",
+      "Arabic": "جدول أعمال"
+    },
+    {
+      "English": "Allow Accessories",
+      "Espanol": "Permitir accesorios",
+      "Romana": "Permite accesorii",
+      "Magyar": "Tartozékok engedélyezése",
+      "Portugues": "Permitir acessórios",
+      "日本人(Japanese)": "アクセサリを許可する",
+      "中文(chinese)": "允许配件",
+      "Arabic": "السماح بالملحقات"
+    },
+    {
+      "English": "Clear All",
+      "Espanol": "Limpiar todo",
+      "Romana": "Curata tot",
+      "Magyar": "Mindent kitöröl",
+      "Portugues": "Limpar tudo",
+      "日本人(Japanese)": "すべてクリア",
+      "中文(chinese)": "全部清除",
+      "Arabic": "امسح الكل"
+    },
+    {
+      "English": "Send",
+      "Espanol": "Enviar",
+      "Romana": "Trimite",
+      "Magyar": "Küld",
+      "Portugues": "Enviar",
+      "日本人(Japanese)": "送信",
+      "中文(chinese)": "发送",
+      "Arabic": "يرسل"
+    },
+    {
+      "English": "Date",
+      "Espanol": "Fecha",
+      "Romana": "Data",
+      "Magyar": "Dátum",
+      "Portugues": "Data",
+      "日本人(Japanese)": "日付",
+      "中文(chinese)": "日期",
+      "Arabic": "تاريخ"
+    },
+    {
+      "English": "Start Time",
+      "Espanol": "Hora de inicio",
+      "Romana": "Timpul de începere",
+      "Magyar": "Kezdési idő",
+      "Portugues": "Hora de início",
+      "日本人(Japanese)": "始まる時間",
+      "中文(chinese)": "开始时间",
+      "Arabic": "وقت البدء"
+    },
+    {
+      "English": "End Time",
+      "Espanol": "Hora de finalización",
+      "Romana": "Sfârșitul timpului",
+      "Magyar": "Idő vége",
+      "Portugues": "Fim do tempo",
+      "日本人(Japanese)": "終了時間",
+      "中文(chinese)": "时间结束",
+      "Arabic": "وقت النهاية"
+    },
+    {
+      "English": "Visitor Details",
+      "Espanol": "Detalles del visitante",
+      "Romana": "Detalii vizitator",
+      "Magyar": "Látogató adatai",
+      "Portugues": "Detalhes do visitante",
+      "日本人(Japanese)": "訪問者の詳細",
+      "中文(chinese)": "访客详情",
+      "Arabic": "تفاصيل الزائر"
+    },
+    {
+      "English": "First Name",
+      "Espanol": "Nombre de pila",
+      "Romana": "Nume",
+      "Magyar": "Keresztnév",
+      "Portugues": "Primeiro nome",
+      "日本人(Japanese)": "ファーストネーム",
+      "中文(chinese)": "名",
+      "Arabic": "الاسم الأول"
+    },
+    {
+      "English": "Last Name",
+      "Espanol": "Apellido",
+      "Romana": "Nume",
+      "Magyar": "Vezetéknév",
+      "Portugues": "Sobrenome",
+      "日本人(Japanese)": "苗字",
+      "中文(chinese)": "姓",
+      "Arabic": "اسم العائلة"
+    },
+    {
+      "English": "Type here",
+      "Espanol": "Escriba aquí",
+      "Romana": "Scrie aici",
+      "Magyar": "Írj ide",
+      "Portugues": "Digite aqui",
+      "日本人(Japanese)": "ここに入力",
+      "中文(chinese)": "在此输入",
+      "Arabic": "أكتب هنا"
+    },
+    {
+      "English": "Please enable contact permission in settings",
+      "Espanol": "Habilite el permiso de contacto en la configuración",
+      "Romana": "Vă rugăm să activați permisiunea de contact în setări",
+      "Magyar": "Kérjük, engedélyezze a kapcsolatfelvételi engedélyt a beállításokban",
+      "Portugues": "Ative a permissão de contato nas configurações",
+      "日本人(Japanese)": "設定で連絡先の許可を有効にしてください",
+      "中文(chinese)": "请在设置中启用联系人权限",
+      "Arabic": "يرجى تمكين إذن الاتصال في الإعدادات"
+    },
+    {
+      "English": "No recent searches",
+      "Espanol": "No hay búsquedas recientes",
+      "Romana": "Fără căutări recente",
+      "Magyar": "Nincsenek legutóbbi keresések",
+      "Portugues": "Nenhuma pesquisa recente",
+      "日本人(Japanese)": "最近の検索はありません",
+      "中文(chinese)": "没有最近的搜索",
+      "Arabic": "لا توجد عمليات بحث حديثة"
+    },
+    {
+      "English": "Get started by inviting a visitor",
+      "Espanol": "Comience invitando a un visitante",
+      "Romana": "Începeți prin a invita un vizitator",
+      "Magyar": "Kezdje látogató meghívásával",
+      "Portugues": "Comece convidando um visitante",
+      "日本人(Japanese)": "訪問者を招待して始めましょう",
+      "中文(chinese)": "从邀请访客开始",
+      "Arabic": "ابدأ بدعوة زائر"
+    },
+    {
+      "English": "Recent searches",
+      "Espanol": "Búsquedas recientes",
+      "Romana": "Căutări recente",
+      "Magyar": "Legutóbbi keresések",
+      "Portugues": "Pesquisas recentes",
+      "日本人(Japanese)": "最近の検索",
+      "中文(chinese)": "最近的搜索",
+      "Arabic": "عمليات البحث الأخيرة"
+    },
+    {
+      "English": "Search by Visitor Name",
+      "Espanol": "Buscar por nombre de visitante",
+      "Romana": "Căutați după numele vizitatorului",
+      "Magyar": "Keresés a látogató neve alapján",
+      "Portugues": "Pesquisar por nome do visitante",
+      "日本人(Japanese)": "訪問者名で検索",
+      "中文(chinese)": "按访客姓名搜索",
+      "Arabic": "البحث حسب اسم الزائر"
+    },
+    {
+      "English": "Invite Sent",
+      "Espanol": "Invitar enviado",
+      "Romana": "Invitație trimisă",
+      "Magyar": "Meghívó elküldve",
+      "Portugues": "Convite enviado",
+      "日本人(Japanese)": "招待を送信しました",
+      "中文(chinese)": "邀请已发送",
+      "Arabic": "أرسلت الدعوة"
+    },
+    {
+      "English": "Your invite has been sent successfully",
+      "Espanol": "Tu invitación ha sido enviada exitosamente.",
+      "Romana": "Invitația dvs. a fost trimisă cu succes",
+      "Magyar": "Meghívóját sikeresen elküldtük",
+      "Portugues": "Seu convite foi enviado com sucesso",
+      "日本人(Japanese)": "招待状は正常に送信されました",
+      "中文(chinese)": "您的邀请已成功发送",
+      "Arabic": "لقد تم إرسال دعوتك بنجاح"
+    },
+    {
+      "English": "Event saved successfully",
+      "Espanol": "Evento guardado exitosamente",
+      "Romana": "Evenimentul a fost salvat cu succes",
+      "Magyar": "Az esemény sikeresen mentve",
+      "Portugues": "Evento salvo com sucesso",
+      "日本人(Japanese)": "イベントが正常に保存されました",
+      "中文(chinese)": "事件保存成功",
+      "Arabic": "تم حفظ الحدث بنجاح"
+    },
+    {
+      "English": "Event cancelled",
+      "Espanol": "Evento cancelado",
+      "Romana": "Eveniment anulat",
+      "Magyar": "Esemény törölve",
+      "Portugues": "Evento cancelado",
+      "日本人(Japanese)": "イベント中止",
+      "中文(chinese)": "活动取消",
+      "Arabic": "تم إلغاء الحدث"
+    },
+    {
+      "English": "Add to Calende",
+      "Espanol": "Añadir a Calende",
+      "Romana": "Adaugă la Calende",
+      "Magyar": "Hozzáadás a Calende-hez",
+      "Portugues": "Adicionar ao Calende",
+      "日本人(Japanese)": "カレンダーに追加",
+      "中文(chinese)": "添加到日历",
+      "Arabic": "أضف إلى كاليندي"
+    },
+    {
+      "English": "Share Invite",
+      "Espanol": "Compartir invitación",
+      "Romana": "Distribuiți invitația",
+      "Magyar": "Meghívás megosztása",
+      "Portugues": "Compartilhar convite",
+      "日本人(Japanese)": "共有の招待",
+      "中文(chinese)": "分享邀请",
+      "Arabic": "مشاركة الدعوة"
+    },
+    {
+      "English": "Send another invite",
+      "Espanol": "Enviar otra invitación",
+      "Romana": "Trimite o altă invitație",
+      "Magyar": "Küldj újabb meghívót",
+      "Portugues": "Envie outro convite",
+      "日本人(Japanese)": "別の招待状を送信する",
+      "中文(chinese)": "发送另一个邀请",
+      "Arabic": "أرسل دعوة أخرى"
+    },
+    {
+      "English": "Invite declined successfully",
+      "Espanol": "Invitación rechazada exitosamente",
+      "Romana": "Invitația a fost refuzată",
+      "Magyar": "A meghívás sikeresen elutasítva",
+      "Portugues": "Convite recusado com sucesso",
+      "日本人(Japanese)": "招待は正常に拒否されました",
+      "中文(chinese)": "邀请成功拒绝",
+      "Arabic": "تم رفض الدعوة بنجاح"
+    },
+    {
+      "English": "Invite again",
+      "Espanol": "Invita otra vez",
+      "Romana": "Invitați din nou",
+      "Magyar": "Hívd meg újra",
+      "Portugues": "Convide de novo",
+      "日本人(Japanese)": "もう一度招待する",
+      "中文(chinese)": "再次邀请",
+      "Arabic": "دعوة مرة أخرى"
+    },
+    {
+      "English": "Reschedule",
+      "Espanol": "Reprogramar",
+      "Romana": "Reprogramați",
+      "Magyar": "Újraütemezés",
+      "Portugues": "Reprogramar",
+      "日本人(Japanese)": "スケジュールを変更する",
+      "中文(chinese)": "改期",
+      "Arabic": "إعادة جدولة"
+    },
+    {
+      "English": "you don`t have access to decline the invite",
+      "Espanol": "No tienes acceso para rechazar la invitación.",
+      "Romana": "nu aveți acces pentru a refuza invitația",
+      "Magyar": "nincs hozzáférése a meghívó elutasításához",
+      "Portugues": "você não tem acesso para recusar o convite",
+      "日本人(Japanese)": "招待を拒否する権限がありません",
+      "中文(chinese)": "您无权拒绝邀请",
+      "Arabic": "ليس لديك حق الوصول لرفض الدعوة"
+    },
+    {
+      "English": "Deny",
+      "Espanol": "Denegar",
+      "Romana": "Negați",
+      "Magyar": "Tagadni",
+      "Portugues": "Negar",
+      "日本人(Japanese)": "拒否",
+      "中文(chinese)": "否定",
+      "Arabic": "ينكر"
+    },
+    {
+      "English": "Invite accepted and further approval needed from your manager",
+      "Espanol": "Invitación aceptada y se necesita aprobación adicional de su gerente",
+      "Romana": "Invitație acceptată și este nevoie de aprobare suplimentară din partea managerului dvs",
+      "Magyar": "Meghívás elfogadva, és további jóváhagyásra van szükség a felettesétől",
+      "Portugues": "Convite aceito e aprovação adicional necessária do seu gerente",
+      "日本人(Japanese)": "招待は承認されましたが、マネージャーからのさらなる承認が必要です",
+      "中文(chinese)": "邀请已接受，需要您的经理的进一步批准",
+      "Arabic": "تم قبول الدعوة ويلزم الحصول على موافقة إضافية من مديرك"
+    },
+    {
+      "English": "Invite accepted successfully",
+      "Espanol": "Invitación aceptada exitosamente",
+      "Romana": "Invitația a fost acceptată cu succes",
+      "Magyar": "Meghívás sikeresen elfogadva",
+      "Portugues": "Convite aceito com sucesso",
+      "日本人(Japanese)": "招待は正常に承認されました",
+      "中文(chinese)": "邀请成功接受",
+      "Arabic": "تم قبول الدعوة بنجاح"
+    },
+    {
+      "English": "Something went wromg",
+      "Espanol": "algo salió mal",
+      "Romana": "Ceva nu a mers",
+      "Magyar": "Valami elromlott",
+      "Portugues": "Algo deu errado",
+      "日本人(Japanese)": "何かがおかしくなった",
+      "中文(chinese)": "出了问题",
+      "Arabic": "حدث خطأ ما"
+    },
+    {
+      "English": "Approve",
+      "Espanol": "Aprobar",
+      "Romana": "Aproba",
+      "Magyar": "Jóváhagy",
+      "Portugues": "Aprovar",
+      "日本人(Japanese)": "承認する",
+      "中文(chinese)": "批准",
+      "Arabic": "يعتمد"
+    },
+    {
+      "English": "End",
+      "Espanol": "Fin",
+      "Romana": "Sfârşit",
+      "Magyar": "Vége",
+      "Portugues": "Fim",
+      "日本人(Japanese)": "終わり",
+      "中文(chinese)": "结尾",
+      "Arabic": "نهاية"
+    },
+    {
+      "English": "Extend",
+      "Espanol": "Extender",
+      "Romana": "Extinde",
+      "Magyar": "Kiterjeszt",
+      "Portugues": "Ampliar",
+      "日本人(Japanese)": "伸ばす",
+      "中文(chinese)": "延长",
+      "Arabic": "يمتد"
+    },
+    {
+      "English": "Contact Info",
+      "Espanol": "Datos de contacto",
+      "Romana": "Informatii de contact",
+      "Magyar": "Elérhetőségei",
+      "Portugues": "Informações de contato",
+      "日本人(Japanese)": "連絡先情報",
+      "中文(chinese)": "联系方式",
+      "Arabic": "معلومات الاتصال"
+    },
+    {
+      "English": "Visit Location",
+      "Espanol": "Visitar Ubicación",
+      "Romana": "Vizitați locația",
+      "Magyar": "Látogassa meg a Helyet",
+      "Portugues": "Visite o local",
+      "日本人(Japanese)": "訪問場所",
+      "中文(chinese)": "参观地点",
+      "Arabic": "زيارة الموقع"
+    },
+    {
+      "English": "Invite created successfully",
+      "Espanol": "Invitación creada exitosamente",
+      "Romana": "Invitația a fost creată cu succes",
+      "Magyar": "Meghívó sikeresen létrehozva",
+      "Portugues": "Convite criado com sucesso",
+      "日本人(Japanese)": "招待が正常に作成されました",
+      "中文(chinese)": "邀请创建成功",
+      "Arabic": "تم إنشاء الدعوة بنجاح"
+    },
+    {
+      "English": "Are you sure do you want to",
+      "Espanol": "¿Estás seguro de que quieres",
+      "Romana": "Ești sigur că vrei",
+      "Magyar": "Biztos, hogy akarod?",
+      "Portugues": "Tem certeza que quer",
+      "日本人(Japanese)": "本当によろしいですか?",
+      "中文(chinese)": "你确定要吗",
+      "Arabic": "هل أنت متأكد أنك تريد ذلك"
+    },
+    {
+      "English": "No",
+      "Espanol": "No",
+      "Romana": "Nu",
+      "Magyar": "Nem",
+      "Portugues": "Não",
+      "日本人(Japanese)": "いいえ",
+      "中文(chinese)": "不",
+      "Arabic": "لا"
+    },
+    {
+      "English": "Yes",
+      "Espanol": "Sí",
+      "Romana": "da",
+      "Magyar": "Igen",
+      "Portugues": "Sim",
+      "日本人(Japanese)": "はい",
+      "中文(chinese)": "是的",
+      "Arabic": "نعم"
+    },
+    {
+      "English": "Invite",
+      "Espanol": "Invitar",
+      "Romana": "A invita",
+      "Magyar": "Meghív",
+      "Portugues": "Convidar",
+      "日本人(Japanese)": "招待する",
+      "中文(chinese)": "邀请",
+      "Arabic": "يدعو"
+    },
+    {
+      "English": "Extend Invite",
+      "Espanol": "Ampliar invitación",
+      "Romana": "Extinde invitația",
+      "Magyar": "Meghívás kiterjesztése",
+      "Portugues": "Estender convite",
+      "日本人(Japanese)": "招待の延長",
+      "中文(chinese)": "延长邀请",
+      "Arabic": "تمديد الدعوة"
+    },
+    {
+      "English": "Extend by",
+      "Espanol": "Extender por",
+      "Romana": "Extinde cu",
+      "Magyar": "Hosszabbítsa meg",
+      "Portugues": "Estender por",
+      "日本人(Japanese)": "まで延長",
+      "中文(chinese)": "延长通过",
+      "Arabic": "تمديد بواسطة"
+    },
+    {
+      "English": "Min",
+      "Espanol": "mín.",
+      "Romana": "Min",
+      "Magyar": "Min",
+      "Portugues": "Mínimo",
+      "日本人(Japanese)": "分",
+      "中文(chinese)": "最小",
+      "Arabic": "دقيقة"
+    },
+    {
+      "English": "Extend",
+      "Espanol": "Extender",
+      "Romana": "Extinde",
+      "Magyar": "Kiterjeszt",
+      "Portugues": "Ampliar",
+      "日本人(Japanese)": "伸ばす",
+      "中文(chinese)": "延长",
+      "Arabic": "يمتد"
+    },
+    {
+      "English": "Validity over",
+      "Espanol": "Validez terminada",
+      "Romana": "S-a terminat valabilitatea",
+      "Magyar": "Az érvényesség vége",
+      "Portugues": "Validade acima",
+      "日本人(Japanese)": "有効期限が切れています",
+      "中文(chinese)": "有效期超过",
+      "Arabic": "انتهت الصلاحية"
+    },
+    {
+      "English": "Invite sent",
+      "Espanol": "Invitar enviado",
+      "Romana": "Invitație trimisă",
+      "Magyar": "Meghívó elküldve",
+      "Portugues": "Convite enviado",
+      "日本人(Japanese)": "招待を送信しました",
+      "中文(chinese)": "邀请已发送",
+      "Arabic": "أرسلت الدعوة"
+    },
+    {
+      "English": "Cancelled",
+      "Espanol": "Cancelado",
+      "Romana": "Anulat",
+      "Magyar": "Törölve",
+      "Portugues": "Cancelado",
+      "日本人(Japanese)": "キャンセル",
+      "中文(chinese)": "取消",
+      "Arabic": "ألغيت"
+    },
+    {
+      "English": "Approval pending",
+      "Espanol": "Aprobación pendiente",
+      "Romana": "În curs de aprobare",
+      "Magyar": "Kérelem folyamatban",
+      "Portugues": "Aprovação pendente",
+      "日本人(Japanese)": "承認待ち",
+      "中文(chinese)": "等待批准",
+      "Arabic": "في انتظار الموافقة"
+    },
+    {
+      "English": "Checked-in",
+      "Espanol": "Registrado",
+      "Romana": "Verificate în",
+      "Magyar": "Bejelentkezett",
+      "Portugues": "Check-in",
+      "日本人(Japanese)": "チェックインした",
+      "中文(chinese)": "入住",
+      "Arabic": "تم تسجيل الوصول"
+    },
+    {
+      "English": "Invite received",
+      "Espanol": "Invitación recibida",
+      "Romana": "Invitație primită",
+      "Magyar": "Meghívó érkezett",
+      "Portugues": "Convite recebido",
+      "日本人(Japanese)": "招待を受け取りました",
+      "中文(chinese)": "收到邀请",
+      "Arabic": "تم استلام الدعوة"
+    },
+    {
+      "English": "Checked-out",
+      "Espanol": "Controlado",
+      "Romana": "Verificat",
+      "Magyar": "Kijelentkezett",
+      "Portugues": "Check-out",
+      "日本人(Japanese)": "チェックアウトされた",
+      "中文(chinese)": "检查过了",
+      "Arabic": "فحصت"
+    },
+    {
+      "English": "Reschedule Invite",
+      "Espanol": "Reprogramar invitación",
+      "Romana": "Reprogramați invitația",
+      "Magyar": "A meghívás átütemezése",
+      "Portugues": "Reagendar convite",
+      "日本人(Japanese)": "招待のスケジュールを変更する",
+      "中文(chinese)": "重新安排邀请",
+      "Arabic": "إعادة جدولة الدعوة"
+    },
+    {
+      "English": "Confirm",
+      "Espanol": "Confirmar",
+      "Romana": "A confirma",
+      "Magyar": "megerősít",
+      "Portugues": "confirme",
+      "日本人(Japanese)": "確認する",
+      "中文(chinese)": "确认",
+      "Arabic": "يتأكد"
+    },
+    {
+      "English": "Please select venue",
+      "Espanol": "Por favor seleccione el lugar",
+      "Romana": "Vă rugăm să selectați locul",
+      "Magyar": "Kérjük, válassza ki a helyszínt",
+      "Portugues": "Selecione o local",
+      "日本人(Japanese)": "会場を選択してください",
+      "中文(chinese)": "请选择场地",
+      "Arabic": "الرجاء تحديد المكان"
+    },
+    {
+      "English": "Please select visitor category",
+      "Espanol": "Por favor seleccione la categoría de visitante",
+      "Romana": "Vă rugăm să selectați categoria de vizitatori",
+      "Magyar": "Kérjük, válassza ki a látogatói kategóriát",
+      "Portugues": "Selecione a categoria do visitante",
+      "日本人(Japanese)": "訪問者のカテゴリーを選択してください",
+      "中文(chinese)": "请选择访客类别",
+      "Arabic": "الرجاء تحديد فئة الزائر"
+    },
+    {
+      "English": "Start time should not be in past",
+      "Espanol": "La hora de inicio no debe ser pasada",
+      "Romana": "Ora de începere nu ar trebui să fie trecută",
+      "Magyar": "A kezdési időpont nem lehet a múltban",
+      "Portugues": "A hora de início não deve estar no passado",
+      "日本人(Japanese)": "開始時刻は過去であってはなりません",
+      "中文(chinese)": "开始时间不应该是过去的时间",
+      "Arabic": "يجب ألا يكون وقت البدء في الماضي"
+    },
+    {
+      "English": "Start time should be greater than End time",
+      "Espanol": "La hora de inicio debe ser mayor que la hora de finalización",
+      "Romana": "Ora de început ar trebui să fie mai mare decât Ora de încheiere",
+      "Magyar": "A kezdési időpontnak nagyobbnak kell lennie, mint a Befejezés időpontja",
+      "Portugues": "A hora de início deve ser maior que a hora de término",
+      "日本人(Japanese)": "開始時間は終了時間より大きくなければなりません",
+      "中文(chinese)": "开始时间应大于结束时间",
+      "Arabic": "يجب أن يكون وقت البدء أكبر من وقت الانتهاء"
+    },
+    {
+      "English": "Please enter first name",
+      "Espanol": "Por favor ingrese el nombre",
+      "Romana": "Vă rugăm să introduceți prenumele",
+      "Magyar": "Kérjük, adja meg a keresztnevet",
+      "Portugues": "Por favor insira o primeiro nome",
+      "日本人(Japanese)": "名を入力してください",
+      "中文(chinese)": "请输入名字",
+      "Arabic": "الرجاء إدخال الاسم الأول"
+    },
+    {
+      "English": "Please enter last name",
+      "Espanol": "Por favor ingrese el apellido",
+      "Romana": "Vă rugăm să introduceți numele de familie",
+      "Magyar": "Kérjük, adja meg a vezetéknevet",
+      "Portugues": "Por favor insira o sobrenome",
+      "日本人(Japanese)": "姓を入力してください",
+      "中文(chinese)": "请输入姓氏",
+      "Arabic": "الرجاء إدخال الاسم الأخير"
+    },
+    {
+      "English": "Please enter valid contact",
+      "Espanol": "Por favor ingrese un contacto válido",
+      "Romana": "Vă rugăm să introduceți un contact valid",
+      "Magyar": "Kérjük, adjon meg érvényes elérhetőséget",
+      "Portugues": "Por favor insira um contato válido",
+      "日本人(Japanese)": "有効な連絡先を入力してください",
+      "中文(chinese)": "请输入有效联系方式",
+      "Arabic": "الرجاء إدخال جهة اتصال صالحة"
+    },
+    {
+      "English": "Please enter valid email",
+      "Espanol": "Por favor introduzca un correo electrónico válido",
+      "Romana": "Vă rugăm să introduceți un e-mail valid",
+      "Magyar": "Kérjük, adjon meg érvényes e-mail-címet",
+      "Portugues": "Por favor insira um e-mail válido",
+      "日本人(Japanese)": "有効なメールアドレスを入力してください",
+      "中文(chinese)": "请输入有效的电子邮件",
+      "Arabic": "الرجاء إدخال بريد إلكتروني صحيح"
+    },
+    {
+      "English": "Please enter valid phone number",
+      "Espanol": "Por favor ingresa un número de teléfono válido",
+      "Romana": "Vă rugăm să introduceți un număr de telefon valid",
+      "Magyar": "Kérjük, adjon meg érvényes telefonszámot",
+      "Portugues": "Por favor insira um número de telefone válido",
+      "日本人(Japanese)": "有効な電話番号を入力してください",
+      "中文(chinese)": "请输入有效的电话号码",
+      "Arabic": "الرجاء إدخال رقم هاتف صحيح"
+    },
+    {
+      "English": "Upcoming Visitors",
+      "Espanol": "Próximos visitantes",
+      "Romana": "Vizitatori viitori",
+      "Magyar": "Közelgő látogatók",
+      "Portugues": "Próximos visitantes",
+      "日本人(Japanese)": "今後の訪問者",
+      "中文(chinese)": "即将到来的访客",
+      "Arabic": "الزوار القادمون"
+    },
+    {
+      "English": "No upcoming visitors.",
+      "Espanol": "No hay próximos visitantes.",
+      "Romana": "Niciun vizitator viitor.",
+      "Magyar": "Nincsenek közelgő látogatók.",
+      "Portugues": "Nenhum próximo visitante.",
+      "日本人(Japanese)": "今後の訪問者はいません。",
+      "中文(chinese)": "没有即将到来的访客。",
+      "Arabic": "لا يوجد زوار قادمون."
+    },
+    {
+      "English": "Schedule a invite now!",
+      "Espanol": "¡Programe una invitación ahora!",
+      "Romana": "Programează acum o invitație!",
+      "Magyar": "Egyeztessen meghívót most!",
+      "Portugues": "Agende um convite agora!",
+      "日本人(Japanese)": "今すぐ招待をスケジュールしましょう!",
+      "中文(chinese)": "立即安排邀请！",
+      "Arabic": "جدولة دعوة الآن!"
+    },
+    {
+      "English": "Invite Date & Time",
+      "Espanol": "Invitar fecha y hora",
+      "Romana": "Data și ora invitației",
+      "Magyar": "Meghívás dátuma és ideje",
+      "Portugues": "Data e hora do convite",
+      "日本人(Japanese)": "招待日時",
+      "中文(chinese)": "邀请日期和时间",
+      "Arabic": "دعوة التاريخ والوقت"
+    },
+    {
+      "English": "Invite received",
+      "Espanol": "Invitación recibida",
+      "Romana": "Invitație primită",
+      "Magyar": "Meghívó érkezett",
+      "Portugues": "Convite recebido",
+      "日本人(Japanese)": "招待を受け取りました",
+      "中文(chinese)": "收到邀请",
+      "Arabic": "تم استلام الدعوة"
+    },
+    {
+      "English": "Invite sent",
+      "Espanol": "Invitar enviado",
+      "Romana": "Invitație trimisă",
+      "Magyar": "Meghívó elküldve",
+      "Portugues": "Convite enviado",
+      "日本人(Japanese)": "招待を送信しました",
+      "中文(chinese)": "邀请已发送",
+      "Arabic": "أرسلت الدعوة"
+    },
+    {
+      "English": "Web check-in",
+      "Espanol": "check-in web",
+      "Romana": "Înregistrare web",
+      "Magyar": "Webes becsekkolás",
+      "Portugues": "Check-in on-line",
+      "日本人(Japanese)": "ウェブチェックイン",
+      "中文(chinese)": "网上办理登机手续",
+      "Arabic": "تحديد الموقع عبر الانترنت"
+    },
+    {
+      "English": "Validity over",
+      "Espanol": "Validez terminada",
+      "Romana": "S-a terminat valabilitatea",
+      "Magyar": "Az érvényesség vége",
+      "Portugues": "Validade acima",
+      "日本人(Japanese)": "有効期限が切れています",
+      "中文(chinese)": "有效期超过",
+      "Arabic": "انتهت الصلاحية"
+    },
+    {
+      "English": "Check-in",
+      "Espanol": "Registrarse",
+      "Romana": "Check-in",
+      "Magyar": "Becsekkolás",
+      "Portugues": "Check-in",
+      "日本人(Japanese)": "チェックイン",
+      "中文(chinese)": "报到",
+      "Arabic": "تحقق في"
+    },
+    {
+      "English": "Check-out",
+      "Espanol": "Verificar",
+      "Romana": "Verifică",
+      "Magyar": "Kijelentkezés",
+      "Portugues": "Confira",
+      "日本人(Japanese)": "チェックアウト",
+      "中文(chinese)": "查看",
+      "Arabic": "الدفع"
+    },
+    {
+      "English": "Visit Timeline Details",
+      "Espanol": "Visitar detalles de la línea de tiempo",
+      "Romana": "Vizitați detaliile cronologiei",
+      "Magyar": "Látogassa meg az Idővonal részleteit",
+      "Portugues": "Visite os detalhes da linha do tempo",
+      "日本人(Japanese)": "タイムラインの詳細にアクセス",
+      "中文(chinese)": "访问时间表详细信息",
+      "Arabic": "قم بزيارة تفاصيل الجدول الزمني"
+    },
+    {
+      "English": "Domain"
+    },
+    {
+      "English": "Change domain?"
+    },
+    {
+      "English": "Email"
+    },
+    {
+      "English": "Phone"
+    },
+    {
+      "English": "Email/Phone"
+    },
+    {
+      "English": "First Name"
+    },
+    {
+      "English": "Last Name"
+    },
+    {
+      "English": "Become Member"
+    },
+    {
+      "English": "You don't seem to be part of any organization."
+    },
+    {
+      "English": "Want to become a Veris member?"
+    },
+    {
+      "English": "Which account do you wish to continue with?"
+    },
+    {
+      "English": "OTP sent to"
+    },
+    {
+      "English": "OTP is invalid or has expired"
+    },
+    {
+      "English": "Verifying OTP"
+    },
+    {
+      "English": "Resending OTP"
+    },
+    {
+      "English": "Resend OTP"
+    },
+    {
+      "English": "Not your contact?"
+    },
+    {
+      "English": "Don't know your domain?"
+    },
+    {
+      "English": "Log in with domain"
+    },
+    {
+      "English": "Getting Config"
+    },
+    {
+      "English": "Proceed"
+    },
+    {
+      "English": "Phone number is invalid"
+    },
+    {
+      "English": "Sending OTP"
+    },
+    {
+      "English": "Send OTP"
+    },
+    {
+      "English": "Employee"
+    },
+    {
+      "English": "Third Party"
+    },
+    {
+      "English": "Guest"
+    },
+    {
+      "English": "Vendor"
+    },
+    {
+      "English": "Member"
+    },
+    {
+      "English": "Visitor"
+    },
+    {
+      "English": "ACTIVITIES"
+    },
+    {
+      "English": "Activities"
+    },
+    {
+      "English": "BADGE"
+    },
+    {
+      "English": "Badge"
+    },
+    {
+      "English": "INVITES"
+    },
+    {
+      "English": "Invites"
+    },
+    {
+      "English": "Archived"
+    },
+    {
+      "English": "Upcoming"
+    },
+    {
+      "English": "Loading..."
+    },
+    {
+      "English": "results found"
+    },
+    {
+      "English": "No upcoming invites"
+    },
+    {
+      "English": "Request Timeout"
+    },
+    {
+      "English": "Created today"
+    },
+    {
+      "English": "N/A"
+    },
+    {
+      "English": "Invited {{count}} day ago"
+    },
+    {
+      "English": "Invited {{count}} days ago"
+    },
+    {
+      "English": "Duration"
+    },
+    {
+      "English": "Time"
+    },
+    {
+      "English": "Date"
+    },
+    {
+      "English": "at"
+    },
+    {
+      "English": "has requested an invite"
+    },
+    {
+      "English": "You invited"
+    },
+    {
+      "English": "invited you"
+    },
+    {
+      "English": "Invited you"
+    },
+    {
+      "English": "Cancelled"
+    },
+    {
+      "English": "Scheduled"
+    },
+    {
+      "English": "Expired"
+    },
+    {
+      "English": "Fetching Details..."
+    },
+    {
+      "English": "Canceling Invite"
+    },
+    {
+      "English": "Cancel Invite"
+    },
+    {
+      "English": "Are you sure you want to cancel this invite?"
+    },
+    {
+      "English": "No"
+    },
+    {
+      "English": "Yes"
+    },
+    {
+      "English": "Accept without accessories"
+    },
+    {
+      "English": "Accept"
+    },
+    {
+      "English": "Reject"
+    },
+    {
+      "English": "Scan this QR at Veris Terminal"
+    },
+    {
+      "English": "MINUTES"
+    },
+    {
+      "English": "HOURS"
+    },
+    {
+      "English": "DAYS"
+    },
+    {
+      "English": "Invite Details"
+    },
+    {
+      "English": "{{count}} result found"
+    },
+    {
+      "English": "{{count}} results found"
+    },
+    {
+      "English": "QR will refresh in {{count}} second"
+    },
+    {
+      "English": "QR will refresh in {{count}} seconds"
+    },
+    {
+      "English": "Scan QR"
+    },
+    {
+      "English": "Scan Beacon"
+    },
+    {
+      "English": "Your Activities"
+    },
+    {
+      "English": "Your Guests'"
+    },
+    {
+      "English": "No Activities"
+    },
+    {
+      "English": "New Invite"
+    },
+    {
+      "English": "Venue"
+    },
+    {
+      "English": "Start Time"
+    },
+    {
+      "English": "End Time"
+    },
+    {
+      "English": "End time should be greater than start time"
+    },
+    {
+      "English": "Start time should be greater than current time. Please select start time again"
+    },
+    {
+      "English": "Start time should be greater than current time"
+    },
+    {
+      "English": "Invite validity"
+    },
+    {
+      "English": "to"
+    },
+    {
+      "English": "Cancel"
+    },
+    {
+      "English": "Confirm"
+    },
+    {
+      "English": "Agenda"
+    },
+    {
+      "English": "Visitor Category"
+    },
+    {
+      "English": "No details to be filled here."
+    },
+    {
+      "English": "Create Invite"
+    },
+    {
+      "English": "Creating Invite"
+    },
+    {
+      "English": "Your guest has been invited."
+    },
+    {
+      "English": "Please select a venue"
+    },
+    {
+      "English": "No workflows present"
+    },
+    {
+      "English": "Something went wrong!"
+    },
+    {
+      "English": "*Special approval might be required for this."
+    },
+    {
+      "English": "Done"
+    },
+    {
+      "English": "Allow accessories (mobile/laptop/etc."
+    },
+    {
+      "English": "Please select items you want to carry"
+    },
+    {
+      "English": "You visited"
+    },
+    {
+      "English": "visited you at"
+    },
+    {
+      "English": "Check In"
+    },
+    {
+      "English": "Check Out"
+    },
+    {
+      "English": "Visited today"
+    },
+    {
+      "English": "Visited {{count}} day ago"
+    },
+    {
+      "English": "Visited {{count}} days ago"
+    },
+    {
+      "English": "Checked In"
+    },
+    {
+      "English": "Checked Out"
+    },
+    {
+      "English": "Scan"
+    },
+    {
+      "English": "Activity Details"
+    },
+    {
+      "English": "You visited {{venueName}} to meet {{meetingWithName}}"
+    },
+    {
+      "English": "visited"
+    },
+    {
+      "English": "to meet you."
+    },
+    {
+      "English": "Scanning for BLE Beacons"
+    },
+    {
+      "English": "Please enable the required permissions"
+    },
+    {
+      "English": "Settings"
+    },
+    {
+      "English": "Terms of service"
+    },
+    {
+      "English": "Know more about Veris"
+    },
+    {
+      "English": "Privacy policy"
+    },
+    {
+      "English": "Logout"
+    },
+    {
+      "English": "Version"
+    },
+    {
+      "English": "Are you sure you wish to logout？"
+    },
+    {
+      "English": "This will erase all your saved config."
+    },
+    {
+      "English": "Yes, I am Sure"
+    },
+    {
+      "English": "Minimum value can be 1"
+    },
+    {
+      "English": "Submit"
+    },
+    {
+      "English": "An input is required"
+    },
+    {
+      "English": "App's Language"
+    },
+    {
+      "English": "Choose a language"
+    },
+    {
+      "English": "Scan QR Code"
+    },
+    {
+      "English": "Please go to settings and give camera permission."
+    },
+    {
+      "English": "Enter your domain to start"
+    },
+    {
+      "English": "Enter the domain of your company to log in"
+    },
+    {
+      "English": "Enter your phone/email"
+    },
+    {
+      "English": "We'll sign you in quickly"
+    },
+    {
+      "English": "We'll send you a code to verify your contact"
+    },
+    {
+      "English": "Choose from the following SSO logins"
+    },
+    {
+      "English": "Enter your contact and password"
+    },
+    {
+      "English": "Enter your phone or email"
+    },
+    {
+      "English": "Log in with another account"
+    },
+    {
+      "English": "Continue"
+    },
+    {
+      "English": "Logging in.."
+    },
+    {
+      "English": "Login with OTP"
+    },
+    {
+      "English": "Login with password"
+    },
+    {
+      "English": "Find it here."
+    },
+    {
+      "English": "Not your company?"
+    },
+    {
+      "English": "Change here."
+    },
+    {
+      "English": "Enter your one time code"
+    },
+    {
+      "English": "Your code is sent at"
+    },
+    {
+      "English": "Mobile Number"
+    },
+    {
+      "English": "Email ID"
+    },
+    {
+      "English": "Company Name"
+    },
+    {
+      "English": "ID Type"
+    },
+    {
+      "English": "ID Number"
+    },
+    {
+      "English": "Who do you wish to meet?"
+    },
+    {
+      "English": "Purpose of Visit"
+    },
+    {
+      "English": "Arrival Instructions"
+    },
+    {
+      "English": "Destination"
+    },
+    {
+      "English": "Escort Name"
+    },
+    {
+      "English": "Escort ID"
+    },
+    {
+      "English": "Personal Item 1"
+    },
+    {
+      "English": "Personal Item 2"
+    },
+    {
+      "English": "Personal Item 3"
+    },
+    {
+      "English": "Personal Item 4"
+    },
+    {
+      "English": "Visits"
+    },
+    {
+      "English": "Could not fetch your domains"
+    },
+    {
+      "English": "Remember your domain now?"
+    },
+    {
+      "English": "Send via Message"
+    },
+    {
+      "English": "Send via E-mail"
+    },
+    {
+      "English": "Sending domain list"
+    },
+    {
+      "English": "Your Visitors"
+    },
+    {
+      "English": "Scan this QR on Veris Terminal for easy authentication."
+    },
+    {
+      "English": "Invalid code. Please try again!"
+    },
+    {
+      "English": "OTP sent to your contact"
+    },
+    {
+      "English": "Scan Veris QR to check-in"
+    },
+    {
+      "English": "optional"
+    },
+    {
+      "English": "search escort"
+    },
+    {
+      "English": "Enter minimum 3 characters to search escort"
+    },
+    {
+      "English": "I will escort the guest"
+    },
+    {
+      "English": "Set as my default venue"
+    },
+    {
+      "English": "Interview Candidate"
     }
   ]
 }

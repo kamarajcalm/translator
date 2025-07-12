@@ -1,27 +1,58 @@
 {
   "en": {
-    "Contact Veris support": "Contact Veris support",
-    "Version": "Version"
+    "Please accept the consent to create booking": "Please accept the consent to create booking",
+    "Please accept the consent to create invite": "Please accept the consent to create invite",
+    "Privacy Policy": "Privacy Policy",
+    "I Accept": "I Accept",
+    "I Reject": "I Reject"
   },
   "es": {
-    "Contact Veris support": "Póngase en contacto con el soporte de Veris",
-    "Version": "Versión"
+    "Please accept the consent to create booking": "Por favor acepte el consentimiento para crear reserva",
+    "Please accept the consent to create invite": "Por favor acepte el consentimiento para crear invitación",
+    "Privacy Policy": "política de privacidad",
+    "I Accept": "Acepto",
+    "I Reject": "Yo rechazo"
   },
   "ro": {
-    "Contact Veris support": "Contactați Veris Support",
-    "Version": "Versiune"
+    "Please accept the consent to create booking": "Vă rugăm să acceptați consimțământul pentru a crea rezervarea",
+    "Please accept the consent to create invite": "Vă rugăm să acceptați consimțământul pentru a crea invitația",
+    "Privacy Policy": "Politica de confidențialitate",
+    "I Accept": "Accept",
+    "I Reject": "Resping"
   },
   "ja": {
-    "Contact Veris support": "Verisサポートにお問い合わせください",
-    "Version": "バージョン"
+    "Please accept the consent to create booking": "予約を作成するには同意してください",
+    "Please accept the consent to create invite": "招待を作成するには同意してください",
+    "Privacy Policy": "プライバシーポリシー",
+    "I Accept": "承諾します",
+    "I Reject": "拒否します"
   },
-  "zh-CN": { "Contact Veris support": "联系Veris支持", "Version": "版本" },
+  "zh-CN": {
+    "Please accept the consent to create booking": "请接受创建预订的同意",
+    "Please accept the consent to create invite": "请接受创建邀请的同意",
+    "Privacy Policy": "隐私政策",
+    "I Accept": "我接受",
+    "I Reject": "我不同意"
+  },
   "hu": {
-    "Contact Veris support": "Vegye fel a kapcsolatot a Veris támogatással",
-    "Version": "Változat"
+    "Please accept the consent to create booking": "Por favor accepta el acordul pentru a crea rezerva",
+    "Please accept the consent to create invite": "Acceptați acordul pentru a crea invitația",
+    "Privacy Policy": "politica de confidențialitate",
+    "I Accept": "Acepto",
+    "I Reject": "Yo rechazo"
   },
   "pt": {
-    "Contact Veris support": "Entre em contato com o suporte da Veris",
-    "Version": "Versão"
+    "Please accept the consent to create booking": "Por favor, aceite o consentimento para criar uma reserva",
+    "Please accept the consent to create invite": "Por favor, aceite o consentimento para criar o convite",
+    "Privacy Policy": "política de Privacidade",
+    "I Accept": "Aceito",
+    "I Reject": "Eu rejeito"
+  },
+  "ar": {
+    "Please accept the consent to create booking": "يرجى قبول الموافقة على إنشاء الحجز",
+    "Please accept the consent to create invite": "يرجى قبول الموافقة على إنشاء دعوة",
+    "Privacy Policy": "سياسة الخصوصية",
+    "I Accept": "انا اوافق",
+    "I Reject": "انا ارفض"
   }
 }
